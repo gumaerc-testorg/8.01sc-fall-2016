@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/c47f747229bd527abb46d1595f134afe_GuiIyYbI0HM.vtt
+file: /media/courses/8-01sc-classical-mechanics-fall-2016/c47f747229bd527abb46d1595f134afe_GuiIyYbI0HM.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: c47f7472-29bd-527a-bb46-d1595f134afe

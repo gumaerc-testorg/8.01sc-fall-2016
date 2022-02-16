@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 7: Kinetic Energy and Work'
+parent_type: CourseSection
 parent_uid: 1099b766-7930-f7e5-1ccc-c80d63899c02
 title: 21.3 Kinetic Energy as a Scalar Product
 uid: e1f7afa9-d369-5fd8-65e9-f91bcd49e64d

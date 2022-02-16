@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 9: Collision Theory'
+parent_type: CourseSection
 parent_uid: bc33ee80-c8fd-90e4-dfda-7092ddd24879
 title: DD.2.3 1D Elastic Collision Velocities in CM Frame
 uid: 97f0d15b-d57a-af51-51bf-26eb9fbf5004

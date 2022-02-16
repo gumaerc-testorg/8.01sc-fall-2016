@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 9: Collision Theory'
+parent_type: CourseSection
 parent_uid: bc33ee80-c8fd-90e4-dfda-7092ddd24879
 title: DD.2.7 Change in the Kinetic Energy
 uid: 4f7d82e5-73dd-c5e1-2a96-aef184e27ed2

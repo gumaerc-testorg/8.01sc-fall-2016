@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 6: Continuous Mass Transfer'
 uid: 28d93f13-f552-de72-9aab-415b7158be8e
 ---

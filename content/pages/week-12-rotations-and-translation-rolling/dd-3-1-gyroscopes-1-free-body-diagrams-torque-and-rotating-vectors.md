@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 12: Rotations and Translation - Rolling'
+parent_type: CourseSection
 parent_uid: fbf76190-d89e-eed2-930e-51f9ac3bf2a6
 title: DD.3.1 Gyroscopes 1 - Free Body Diagrams, Torque, and Rotating Vectors
 uid: d1c38e53-0c20-d699-f2e8-3e7f0242c713

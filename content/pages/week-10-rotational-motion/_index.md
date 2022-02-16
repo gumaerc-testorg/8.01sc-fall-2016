@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 10: Rotational Motion'
 uid: 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47
 ---

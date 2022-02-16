@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 11: Angular Momentum'
+parent_type: CourseSection
 parent_uid: d36579bd-7dfc-b71f-7617-8b4b8d45c312
 title: Problem Set 11
 uid: b8ea2fe1-fcf0-283a-b156-028db7d562eb

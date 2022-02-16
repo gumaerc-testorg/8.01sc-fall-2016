@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 9: Collision Theory'
+parent_type: CourseSection
 parent_uid: bc33ee80-c8fd-90e4-dfda-7092ddd24879
 title: 26.2 Kinetic Energy in Collisions
 uid: 2ebec2a9-0ad8-27ea-35ad-a76b78bd67bd

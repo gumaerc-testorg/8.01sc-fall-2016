@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 7: Kinetic Energy and Work'
+parent_type: CourseSection
 parent_uid: 1099b766-7930-f7e5-1ccc-c80d63899c02
 title: PS.7.1 Worked Example - Collision and Sliding on a Rough Surface
 uid: 1a85f658-a6b6-19d1-7082-201370c974dd

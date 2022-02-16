@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/386cb62ada81a690095511b104163d75_QCA3zOe2xdA.pdf
+file: /media/courses/8-01sc-classical-mechanics-fall-2016/386cb62ada81a690095511b104163d75_QCA3zOe2xdA.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 386cb62a-da81-a690-0955-11b104163d75

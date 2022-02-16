@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 14fc866f-f60f-c69f-19eb-4338bbc87675
 ---
@@ -53,10 +56,10 @@ None
 {{< tdopen >}}
 1D Kinematics - Position and Velocity
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset1_new)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Derivatives in Kinematics]({{< baseurl >}}/pages/week-1-kinematics/1.7-worked-example-derivatives-in-kinematics)
@@ -106,10 +109,10 @@ None
 {{< tdopen >}}
 Newton's Laws of Motion
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset2)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 
 
 [Gravity Superposition]({{< baseurl >}}/pages/week-2-newtons-laws/5.2-worked-example-gravity-superposition)
@@ -173,10 +176,10 @@ Friction
 {{< tdopen >}}
 Circular Motion - Position and Velocity
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset3)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 [Angular Position from Angular Acceleration]({{< baseurl >}}/pages/week-3-circular-motion/10.3-worked-example-angular-position-from-angular-acceleration)
@@ -212,7 +215,7 @@ Circular Motion - Acceleration
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Newton's 2nd Law and Circular Motion
+Newton's 2{{< sup "nd" >}} Law and Circular Motion
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,10 +232,10 @@ Newton's 2nd Law and Circular Motion
 {{< tdopen >}}
 Pulleys and Constraints
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset4)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
  [2 Blocks and 2 Pulleys]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems/12.5-worked-example-2-blocks-and-2-pulleys)
 {{< tdclose >}}
 
@@ -268,10 +271,10 @@ Resistive Forces
 {{< tdopen >}}
 Momentum and Impulse
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset5)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Bouncing Ball]({{< baseurl >}}/pages/week-5-momentum-and-impulse/15.3-worked-example-bouncing-ball)
@@ -315,10 +318,10 @@ Center of Mass and Motion of the Center of Mass
 {{< tdopen >}}
 Relative Velocity and Recoil
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset6)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 [Rocket Sled Problem]({{< baseurl >}}/pages/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem)
@@ -351,10 +354,10 @@ Continuous Mass Transfer
 {{< tdopen >}}
 Kinetic Energy and Work in 1D
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset7)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Block Going Down a Ramp]({{< baseurl >}}/pages/week-7-kinetic-energy-and-work/21.6-worked-example-block-going-down-a-ramp)
@@ -396,10 +399,10 @@ Conservative and Non-conservative Forces
 {{< tdopen >}}
 Potential Energy
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset8)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Block Sliding Down Circular Slope]({{< baseurl >}}/pages/week-8-potential-energy-and-energy-conservation/24.3-worked-example-block-sliding-down-circular-slope)
@@ -439,10 +442,10 @@ Potential Energy Diagrams
 {{< tdopen >}}
 Types of Collision
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset9)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Elastic 1D Collision]({{< baseurl >}}/pages/week-9-collision-theory/27.1-worked-example-elastic-1d-collision)
@@ -488,10 +491,10 @@ Center of Mass Reference Frame
 {{< tdopen >}}
 Motion of a Rigid Body
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 [Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset10)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 [Find the Moment of Inertia of a Disc from a Falling Mass]({{< baseurl >}}/pages/week-10-rotational-motion/31.3-worked-example-find-the-moment-of-inertia-of-a-disc-from-a-falling-mass)
@@ -546,10 +549,10 @@ Rotational Dynamics
 {{< tdopen >}}
 Angular Momentum of a Point Particle
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Problem Set 11 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset11)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 [Angular Momentum About Different Points]({{< baseurl >}}/pages/week-11-angular-momentum/32.3-worked-example-angular-momentum-about-different-points)
@@ -593,10 +596,10 @@ Torque and Angular Impulse
 {{< tdopen >}}
 Rolling Kinematics
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 [Problem Set 12 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset12)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 [Wheel Rolling Without Slipping Down Inclined Plane - Torque Method]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/36.2-worked-example-wheel-rolling-without-slipping-down-inclined-plane-torque-method)

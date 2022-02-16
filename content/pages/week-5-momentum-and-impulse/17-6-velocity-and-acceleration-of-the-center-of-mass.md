@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 5: Momentum and Impulse'
+parent_type: CourseSection
 parent_uid: c1168b62-a27d-cf9f-3fe2-550af1ed72f5
 title: 17.6 Velocity and Acceleration of the Center of Mass
 uid: 8de92a30-b4b3-f264-b6a6-8332032322e6

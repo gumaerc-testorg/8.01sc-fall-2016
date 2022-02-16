@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 10: Rotational Motion'
+parent_type: CourseSection
 parent_uid: 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47
 title: 31.2 Internal Torques Cancel in Pairs
 uid: 4fe8b2df-f905-edca-0bf0-6b0f81f898b3

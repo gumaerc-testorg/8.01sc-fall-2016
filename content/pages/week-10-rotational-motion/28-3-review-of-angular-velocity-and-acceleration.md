@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 10: Rotational Motion'
+parent_type: CourseSection
 parent_uid: 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47
 title: 28.3 Review of Angular Velocity and Acceleration
 uid: daf0eba2-915c-8ca8-6c31-55fb9b7e0a5b

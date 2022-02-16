@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 3: Circular Motion'
 uid: 3c7d357c-bb95-e729-679b-539d23714ede
 ---
@@ -33,10 +35,10 @@ Week 3: Circular Motion
 *   [10.3 Worked Example - Angular Position from Angular Acceleration]({{< baseurl >}}/pages/week-3-circular-motion/10.3-worked-example-angular-position-from-angular-acceleration)
 *   [10.4 Review of Rotational Kinematics]({{< baseurl >}}/pages/week-3-circular-motion/10.4-review-of-rotational-kinematics)
 
-{{< anchor "Lesson_11" >}}{{< /anchor >}}Lesson 11: Newton's 2nd Law and Circular Motion
-----------------------------------------------------------------------------------------
+{{< anchor "Lesson_11" >}}{{< /anchor >}}Lesson 11: Newton's 2{{< sup "nd" >}} Law and Circular Motion
+------------------------------------------------------------------------------------------------------
 
-*   [11.1 Newton's 2nd Law and Circular Motion]({{< baseurl >}}/pages/week-3-circular-motion/11.1-newtons-2nd-law-and-circular-motion)
+*   [11.1 Newton's 2{{< sup "nd" >}} Law and Circular Motion]({{< baseurl >}}/pages/week-3-circular-motion/11.1-newtons-2nd-law-and-circular-motion)
 *   [11.2 Worked Example - Car on a Banked Turn]({{< baseurl >}}/pages/week-3-circular-motion/11.2-worked-example-car-on-a-banked-turn)
 *   [11.3 Demo: Rotating Bucket]({{< baseurl >}}/pages/week-3-circular-motion/11.3-demo-rotating-bucket)
 

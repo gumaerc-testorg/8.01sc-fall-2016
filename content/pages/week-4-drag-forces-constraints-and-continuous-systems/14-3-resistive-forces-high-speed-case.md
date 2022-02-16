@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 4: Drag Forces, Constraints and Continuous Systems'
+parent_type: CourseSection
 parent_uid: 919a2c50-6eb4-551d-940b-b0dbab2356f0
 title: 14.3 Resistive Forces - High Speed Case
 uid: cc32eace-0df4-1367-1aa6-9a03a79b0c59

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 5: Momentum and Impulse'
+parent_type: CourseSection
 parent_uid: c1168b62-a27d-cf9f-3fe2-550af1ed72f5
 title: Problem Set 5
 uid: ba6a17ec-2a64-e576-34b0-0dd9fd6b8ab2

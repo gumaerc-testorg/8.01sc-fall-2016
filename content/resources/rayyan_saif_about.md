@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/f1cc92e09027b13bdda967f59006f03f_rayyan_saif_about.jpg
+file: /media/courses/8-01sc-classical-mechanics-fall-2016/f1cc92e09027b13bdda967f59006f03f_rayyan_saif_about.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: About the Team
+parent_type: CourseSection
 resourcetype: Image
 title: rayyan_saif_about.jpg
 uid: f1cc92e0-9027-b13b-dda9-67f59006f03f

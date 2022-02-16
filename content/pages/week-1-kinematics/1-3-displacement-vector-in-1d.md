@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 1: Kinematics'
+parent_type: CourseSection
 parent_uid: 63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a
 title: 1.3 Displacement Vector in 1D
 uid: 6173eb99-6342-4c07-c274-ecc71fbee808

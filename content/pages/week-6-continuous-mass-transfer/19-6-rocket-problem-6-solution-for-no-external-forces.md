@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 6: Continuous Mass Transfer'
+parent_type: CourseSection
 parent_uid: 28d93f13-f552-de72-9aab-415b7158be8e
 title: 19.6 Rocket Problem 6 - Solution for No External Forces
 uid: 9061706b-ad48-d753-7d6f-2f4413c5bf77

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 9: Collision Theory'
+parent_type: CourseSection
 parent_uid: bc33ee80-c8fd-90e4-dfda-7092ddd24879
 title: '27.4 Worked Example: Elastic 1D Collision Again'
 uid: bad89c1c-a93e-051f-55c0-42311c822a90

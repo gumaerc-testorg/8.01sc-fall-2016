@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 5: Momentum and Impulse'
+parent_type: CourseSection
 parent_uid: c1168b62-a27d-cf9f-3fe2-550af1ed72f5
 title: 16.2 Momentum Diagrams
 uid: 2999617b-0f27-9754-0997-e50f3d7890ed

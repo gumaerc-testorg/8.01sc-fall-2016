@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Review: Vectors'
+parent_type: CourseSection
 parent_uid: f8da8d9b-f6a4-78e6-808b-aa7e6aa62306
 title: 0.4 Vectors - Magnitude and Direction
 uid: c1a289e5-0290-1cf9-1f51-d05db53ebf8e

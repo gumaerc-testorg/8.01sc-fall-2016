@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 6: Continuous Mass Transfer'
+parent_type: CourseSection
 parent_uid: 28d93f13-f552-de72-9aab-415b7158be8e
 title: 18.3 Solve for Velocity in the Ground Frame
 uid: fedac271-b3c4-8233-59f5-4d93cc01e4f4

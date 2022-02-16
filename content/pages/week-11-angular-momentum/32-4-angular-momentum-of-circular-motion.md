@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 11: Angular Momentum'
+parent_type: CourseSection
 parent_uid: d36579bd-7dfc-b71f-7617-8b4b8d45c312
 title: 32.4 Angular Momentum of Circular Motion
 uid: d7f63574-cced-76f6-9437-a22b7fb74dfb

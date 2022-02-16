@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 1: Kinematics'
 uid: 63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a
 ---

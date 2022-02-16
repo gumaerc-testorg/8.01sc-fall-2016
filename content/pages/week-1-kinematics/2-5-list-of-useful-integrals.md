@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 1: Kinematics'
+parent_type: CourseSection
 parent_uid: 63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a
 title: 2.5 List of Useful Integrals
 uid: 52166d73-6e4e-5e12-6d64-5ad6a0c7a9f2

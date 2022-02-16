@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 9: Collision Theory'
+parent_type: CourseSection
 parent_uid: bc33ee80-c8fd-90e4-dfda-7092ddd24879
 title: DD.2.6 Kinetic Energy in the CM Frame
 uid: 238a5fed-478b-3743-fcd8-f177046fe55d

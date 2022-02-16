@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 10: Rotational Motion'
+parent_type: CourseSection
 parent_uid: 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47
 title: 29.5 Moment of Inertia of a Sphere
 uid: a18c0f46-04d0-229d-8698-10b8be0c7f68

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 12: Rotations and Translation - Rolling'
+parent_type: CourseSection
 parent_uid: fbf76190-d89e-eed2-930e-51f9ac3bf2a6
 title: 35.5 Contact Point of a Wheel Rolling Without Slipping
 uid: cdb356d3-d809-350f-737b-eeaaa152c318

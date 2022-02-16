@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 1: Kinematics'
+parent_type: CourseSection
 parent_uid: 63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a
 title: 'PS.1.5 Worked Example: Pedestrian and Bike at Intersection'
 uid: 78b6dfdb-1434-37ce-0d07-1e7e7521a24e
@@ -13,7 +16,7 @@ You are in a car standing by a traffic light and at time \\(\\displaystyle t=0 \
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-\\(\\displaystyle a\_1(t) = \\left\\{ \\begin{array}{ll} b\_1 & \\quad 0 \\leq t \\leq t\_1 \\\\ 0 & \\quad t\_1 < t \\leq t\_2 \\end{array} \\right. \\)
+\\(\\displaystyle a\_1(t) = \\left\\{ \\begin{array}{ll} b\_1 & \\quad 0 \\leq t \\leq t\_1 \\\\ 0 & \\quad t\_1 \< t \\leq t\_2 \\end{array} \\right. \\)
 {{< tdclose >}}
 {{< tdopen >}}
  

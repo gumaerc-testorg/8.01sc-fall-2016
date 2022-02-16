@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding classical mechanics.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/f208afd527739e38a7262acf616e54f9_MIT8_01F16_chapter20.pdf
+file: /media/courses/8-01sc-classical-mechanics-fall-2016/f208afd527739e38a7262acf616e54f9_MIT8_01F16_chapter20.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 8.01 Classical Mechanics Chapter 20
 uid: f208afd5-2773-9e38-a726-2acf616e54f9

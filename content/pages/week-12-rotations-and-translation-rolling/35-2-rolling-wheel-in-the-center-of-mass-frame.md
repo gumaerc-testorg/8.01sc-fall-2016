@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 12: Rotations and Translation - Rolling'
+parent_type: CourseSection
 parent_uid: fbf76190-d89e-eed2-930e-51f9ac3bf2a6
 title: 35.2 Rolling Wheel in the Center of Mass Frame
 uid: 08c4edd4-b9bf-a4da-3830-00d191309dc1

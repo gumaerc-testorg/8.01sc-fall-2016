@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 3: Circular Motion'
+parent_type: CourseSection
 parent_uid: 3c7d357c-bb95-e729-679b-539d23714ede
 title: 10.3 Worked Example - Angular Position from Angular Acceleration
 uid: 8992e0cf-af5f-2ab2-d813-cd1facefbf81

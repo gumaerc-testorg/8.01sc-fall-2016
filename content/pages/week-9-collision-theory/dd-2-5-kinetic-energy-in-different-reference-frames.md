@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 9: Collision Theory'
+parent_type: CourseSection
 parent_uid: bc33ee80-c8fd-90e4-dfda-7092ddd24879
 title: DD.2.5 Kinetic Energy in Different Reference Frames
 uid: a0cd15bf-86d9-6b19-6be5-7565da50816c

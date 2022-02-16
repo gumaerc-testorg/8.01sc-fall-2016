@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 3.5 Demos for Projectile Motion
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Demo: Shooting an Apple'
 uid: 36f48ddd-b04a-57b2-a5a4-10e427267e21

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 3: Circular Motion'
+parent_type: CourseSection
 parent_uid: 3c7d357c-bb95-e729-679b-539d23714ede
 title: 11.2 Worked Example - Car on a Banked Turn
 uid: c71831d1-bf7e-ac4f-f0e0-21abe0cb6641

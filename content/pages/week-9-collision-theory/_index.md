@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 9: Collision Theory'
 uid: bc33ee80-c8fd-90e4-dfda-7092ddd24879
 ---

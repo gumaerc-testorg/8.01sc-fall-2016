@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 3.5 Demos for Projectile Motion
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Demo: Relative Motion Gun'
 uid: 0cc95664-e453-68a1-ee48-8333a1e1e5d1

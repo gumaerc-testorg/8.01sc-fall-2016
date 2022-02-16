@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 6: Continuous Mass Transfer'
+parent_type: CourseSection
 parent_uid: 28d93f13-f552-de72-9aab-415b7158be8e
 title: 19.1 Rocket Problem 1 - Set up the Problem
 uid: 3f6e8996-2a82-6cca-515d-e0c4378dde38

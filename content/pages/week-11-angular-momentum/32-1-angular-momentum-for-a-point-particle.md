@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 11: Angular Momentum'
+parent_type: CourseSection
 parent_uid: d36579bd-7dfc-b71f-7617-8b4b8d45c312
 title: 32.1 Angular Momentum for a Point Particle
 uid: 432d416e-7880-ce79-80b5-07f7884c036e

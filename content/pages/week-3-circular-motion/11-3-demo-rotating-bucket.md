@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 3: Circular Motion'
+parent_type: CourseSection
 parent_uid: 3c7d357c-bb95-e729-679b-539d23714ede
 title: '11.3 Demo: Rotating Bucket'
 uid: b7f96b05-7d10-13b3-d274-9791547f1e2f

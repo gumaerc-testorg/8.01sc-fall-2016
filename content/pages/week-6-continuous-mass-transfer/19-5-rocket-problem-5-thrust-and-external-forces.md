@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 6: Continuous Mass Transfer'
+parent_type: CourseSection
 parent_uid: 28d93f13-f552-de72-9aab-415b7158be8e
 title: 19.5 Rocket Problem 5 - Thrust and External Forces
 uid: 1e93fb9c-c4cd-c0a7-10fe-6f367143cf5c

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 8: Potential Energy and Energy Conservation'
 uid: 13949981-43ef-cc49-3f7c-98265cfbd3ae
 ---

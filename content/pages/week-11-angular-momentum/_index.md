@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Week 11: Angular Momentum'
 uid: d36579bd-7dfc-b71f-7617-8b4b8d45c312
 ---

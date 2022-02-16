@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Review: Vectors'
+parent_type: CourseSection
 parent_uid: f8da8d9b-f6a4-78e6-808b-aa7e6aa62306
 title: 0.5 Vector Decomposition into Components
 uid: 46404de9-9864-de4d-6558-ed86dd31c1ea

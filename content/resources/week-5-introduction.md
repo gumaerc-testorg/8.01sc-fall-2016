@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Week 5 Introduction
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Week 5 Introduction
 uid: 62a4747b-9fec-a092-95d4-54652b687b2b
 video_files:
   archive_url: https://archive.org/download/MIT8.01F16/MIT8_01F16_W05Intro_360p.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/86d89baf94a050bdb42a7bc614c96d9b_n1cXiw3s72k.vtt
+  video_captions_file: /courses/8-01sc-classical-mechanics-fall-2016/86d89baf94a050bdb42a7bc614c96d9b_n1cXiw3s72k.vtt
   video_thumbnail_file: https://img.youtube.com/vi/n1cXiw3s72k/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/95685f043a087e46cfaf95cea27449e0_n1cXiw3s72k.pdf
+  video_transcript_file: /courses/8-01sc-classical-mechanics-fall-2016/95685f043a087e46cfaf95cea27449e0_n1cXiw3s72k.pdf
 video_metadata:
   youtube_id: n1cXiw3s72k
 ---
