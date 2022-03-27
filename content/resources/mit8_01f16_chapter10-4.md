@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 8897a3b7-567f-b552-81b3-2f8a1de7b53b
 resourcetype: Document
 title: 8.01 Classical Mechanics Chapter 10.4
 uid: 6bc2b23c-a535-f60e-f92a-35c3d90b2fea

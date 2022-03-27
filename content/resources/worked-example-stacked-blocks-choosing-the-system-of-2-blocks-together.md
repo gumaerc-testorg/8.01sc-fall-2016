@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Worked Example - Stacked Blocks - Choosing the System of 2 Blocks Together
 uid: af893009-d700-7661-a086-1bed13a33e68
 video_files:

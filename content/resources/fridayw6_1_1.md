@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: PS.7.1 Worked Example - Collision and Sliding on a Rough Surface
 parent_type: CourseSection
+parent_uid: 1a85f658-a6b6-19d1-7082-201370c974dd
 resourcetype: Image
 title: fridayw6_1_1.svg
 uid: e11c8a5b-acd3-aece-5290-c369d8582292

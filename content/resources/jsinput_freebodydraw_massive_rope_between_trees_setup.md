@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 13.1 Rope Hanging Between Trees
 parent_type: CourseSection
+parent_uid: 869e8587-bad0-5bba-6781-da19b701a57a
 resourcetype: Image
 title: jsinput_freebodydraw_massive_rope_between_trees_setup.svg
 uid: 838633c7-0a5b-59cc-e23f-0909eaeb96d7

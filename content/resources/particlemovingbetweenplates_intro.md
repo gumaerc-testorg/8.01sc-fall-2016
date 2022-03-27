@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'PS.1.3 Worked Example: Braking Car'
 parent_type: CourseSection
+parent_uid: c00c7194-c0ce-a091-fd9b-c5f3ba49fe85
 resourcetype: Image
 title: ParticleMovingBetweenPlates_intro.svg
 uid: 4d58998c-1d0a-b6b2-2306-337d032f3eef

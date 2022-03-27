@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 8897a3b7-567f-b552-81b3-2f8a1de7b53b
 resourcetype: Document
 title: 8.01 Classical Mechanics Chapter 13.1
 uid: fbd2cff9-c34f-a807-4117-241e25ed27cd

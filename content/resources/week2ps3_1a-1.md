@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'PS.2.2 Worked Example: Pushing Stacked Blocks'
 parent_type: CourseSection
+parent_uid: 00aef642-3d37-f1e0-8db3-ced31e4003c0
 resourcetype: Image
 title: week2ps3_1a.svg
 uid: 9af7d45f-edb6-23ee-e81e-08b6e024979f

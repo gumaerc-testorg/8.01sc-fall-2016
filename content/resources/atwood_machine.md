@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 31.4 Worked Example - Atwood Machine
 parent_type: CourseSection
+parent_uid: 770f89d7-73c1-236d-f48f-673fd378e5a4
 resourcetype: Image
 title: atwood_machine.svg
 uid: 0310ea72-3271-6c47-b2f2-d1323a9d4a4e

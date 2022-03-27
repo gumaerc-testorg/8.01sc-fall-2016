@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: PS.7.1 Worked Example - Collision and Sliding on a Rough Surface
 uid: b3636e25-f8a6-1312-3316-8d0a184f1c31
 video_files:

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 37.4 Summary of Angular Momentum and Kinetic Energy
 parent_type: CourseSection
+parent_uid: b3f85755-e9b8-b768-41cb-cdf53171cfc6
 resourcetype: Image
 title: ls12_summary.svg
 uid: a2566fef-5a40-6990-630c-48f22203573b

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'PS.2.1 Worked Example: Sliding Block'
 parent_type: CourseSection
+parent_uid: 049199c2-b750-bf9b-0743-89e653cf5020
 resourcetype: Image
 title: week2ps1.svg
 uid: e7c3c8b9-4d99-5cd3-d77c-1628abb04621

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Worked Example - Stacked Blocks - Solve for the Maximum Force
 uid: 96220e96-d702-3641-80d2-bdf5cae5d365
 video_files:
