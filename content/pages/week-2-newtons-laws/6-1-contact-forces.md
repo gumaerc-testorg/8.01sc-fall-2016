@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Contact Forces.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 2: Newton''s Laws'
@@ -9,8 +10,8 @@ title: 6.1 Contact Forces
 uid: d1968a61-bae6-0ee9-89bc-bb1908425c38
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-2-newtons-laws/5.3-gravity-at-the-surface-of-the-earth-the-value-of-g) | [Next]({{< baseurl >}}/pages/week-2-newtons-laws/6.2-static-friction-lesson) »
+« {{% resource_link 8f8d84a8-d95e-e480-3eb2-7692d4b802e8 "Previous" %}} | {{% resource_link 28214d6f-d57a-80ba-19e3-39215e447f53 "Next" %}} »
 
 {{< resource 6508aa67-7621-0744-3a25-80daceb726b9 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-2-newtons-laws/5.3-gravity-at-the-surface-of-the-earth-the-value-of-g) | [Next]({{< baseurl >}}/pages/week-2-newtons-laws/6.2-static-friction-lesson) »
+« {{% resource_link 8f8d84a8-d95e-e480-3eb2-7692d4b802e8 "Previous" %}} | {{% resource_link 28214d6f-d57a-80ba-19e3-39215e447f53 "Next" %}} »

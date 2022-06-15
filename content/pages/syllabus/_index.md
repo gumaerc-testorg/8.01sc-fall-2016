@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: This section includes information about the course topics, readings,
+  assignments, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 8488bde4-6909-b726-a411-abeee039ef1a
 ---
 
-« [Previous]({{< baseurl >}}/) | [Next]({{< baseurl >}}/pages/syllabus/about-the-team) »
+« [Previous]({{< baseurl >}}/) | {{% resource_link 63b200b4-6b93-d532-b387-9a3d37067265 "Next" %}} »
 
 Video Introduction by Prof. Deepto Chakrabarty and Dr. Peter Dourmashkin
 ------------------------------------------------------------------------
@@ -25,7 +27,7 @@ Problem Solving: 1 session / week, 1 hour / session
 Prerequisites
 -------------
 
-This course has no prerequisites. [_18.01SC Single Variable Calculus_](/courses/18-01sc-single-variable-calculus-fall-2010/) is a corequisite.
+This course has no prerequisites. [_18.01SC Single Variable Calculus_](/courses/18-01sc-single-variable-calculus-fall-2010) is a corequisite.
 
 Course Overview
 ---------------
@@ -39,30 +41,30 @@ Our goal is to develop a conceptual understanding of the core concepts, a famili
 Textbook
 --------
 
-The textbook for this course is ["Classical Mechanics: MIT 8.01 Course Notes" (PDF - 67.9MB)](/ans7870/8/8.01/f16/readings/MIT8_01F16_TableOfContents.pdf) by Peter Dourmashkin. Specific readings for each assignment are provided in the [Readings]({{< baseurl >}}/pages/readings) section.
+The textbook for this course is ["Classical Mechanics: MIT 8.01 Course Notes" (PDF - 67.9MB)](/ans7870/8/8.01/f16/readings/MIT8_01F16_TableOfContents.pdf) by Peter Dourmashkin. Specific readings for each assignment are provided in the {{% resource_link 8897a3b7-567f-b552-81b3-2f8a1de7b53b "Readings" %}} section.
 
 Topics Covered
 --------------
 
-*   [Week 1: Kinematics]({{< baseurl >}}/pages/week-1-kinematics)
-*   [Week 2: Newton's Laws Circular Motion]({{< baseurl >}}/pages/week-2-newtons-laws)
-*   [Week 3: Circular Motion Momentum and Impulse]({{< baseurl >}}/pages/week-3-circular-motion)
-*   [Week 4: Drag Forces, Constraints and Continuous Systems Work and Mechanical Energy]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems)
-*   [Week 5: Momentum and Impulse Collision Theory]({{< baseurl >}}/pages/week-5-momentum-and-impulse)
-*   [Week 6: Continuous Mass Transfer Torque]({{< baseurl >}}/pages/week-6-continuous-mass-transfer)
-*   [Week 7: Kinetic Energy and Work]({{< baseurl >}}/pages/week-7-kinetic-energy-and-work)
-*   [Week 8: Potential Energy and Energy Conservation]({{< baseurl >}}/pages/week-8-potential-energy-and-energy-conservation)
-*   [Week 9: Collision Theory]({{< baseurl >}}/pages/week-9-collision-theory)
-*   [Week 10: Rotational Motion]({{< baseurl >}}/pages/week-10-rotational-motion)
-*   [Week 11: Angular Momentum]({{< baseurl >}}/pages/week-11-angular-momentum)
-*   [Week 12: Rotations and Translation - Rollin]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling)g
+*   {{% resource_link 63e325a7-80c7-9e35-2fb5-bddb9b8b2c6a "Week 1: Kinematics" %}}
+*   {{% resource_link cf6d9ae8-5d7b-6e78-8f1e-70cf24afc329 "Week 2: Newton's Laws Circular Motion" %}}
+*   {{% resource_link 3c7d357c-bb95-e729-679b-539d23714ede "Week 3: Circular Motion Momentum and Impulse" %}}
+*   {{% resource_link 919a2c50-6eb4-551d-940b-b0dbab2356f0 "Week 4: Drag Forces, Constraints and Continuous Systems Work and Mechanical Energy" %}}
+*   {{% resource_link c1168b62-a27d-cf9f-3fe2-550af1ed72f5 "Week 5: Momentum and Impulse Collision Theory" %}}
+*   {{% resource_link 28d93f13-f552-de72-9aab-415b7158be8e "Week 6: Continuous Mass Transfer Torque" %}}
+*   {{% resource_link 1099b766-7930-f7e5-1ccc-c80d63899c02 "Week 7: Kinetic Energy and Work" %}}
+*   {{% resource_link 13949981-43ef-cc49-3f7c-98265cfbd3ae "Week 8: Potential Energy and Energy Conservation" %}}
+*   {{% resource_link bc33ee80-c8fd-90e4-dfda-7092ddd24879 "Week 9: Collision Theory" %}}
+*   {{% resource_link 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47 "Week 10: Rotational Motion" %}}
+*   {{% resource_link d36579bd-7dfc-b71f-7617-8b4b8d45c312 "Week 11: Angular Momentum" %}}
+*   {{% resource_link fbf76190-d89e-eed2-930e-51f9ac3bf2a6 "Week 12: Rotations and Translation - Rollin" %}}g
 
 How to Use This Site
 --------------------
 
 This version of 8._01 Classical Mechanics_ on OCW is modified from the materials presented in the fall 2016 course taught at MIT. The course is broken into twelve weeks, as listed above. Each week contains 3-4 lessons on distinct topics. Each lesson consists of a series of videos explaining the topic, which are meant to be viewed in sequence.
 
-The [first lesson]({{< baseurl >}}/pages/review-vectors/0.1-vectors-vs.-scalars) is on vectors; the "Previous" and "Next" buttons can be used to navigate between videos. Alternatively, all videos can be accessed on the "Week" page corresponding to that lesson.
+The {{% resource_link 649cf3cc-8fa4-f358-b8d5-87dc9811786f "first lesson" %}} is on vectors; the "Previous" and "Next" buttons can be used to navigate between videos. Alternatively, all videos can be accessed on the "Week" page corresponding to that lesson.
 
 Grades
 ------
@@ -140,4 +142,4 @@ Scientists and engineers work in groups as well as alone. Social interactions ar
 
 You will form groups of three for collaborative work. If you are not satisfied with the way your group is working, first try to discuss it with your group members. If you cannot arrive at a satisfactory solution, then discuss the problems with your instructor.
 
-« [Previous]({{< baseurl >}}/) | [Next]({{< baseurl >}}/pages/syllabus/about-the-team) »
+« [Previous]({{< baseurl >}}/) | {{% resource_link 63b200b4-6b93-d532-b387-9a3d37067265 "Next" %}} »

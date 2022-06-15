@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Hooke's Law.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 2: Newton''s Laws'
@@ -9,8 +10,8 @@ title: 7.4 Hooke's Law
 uid: ca692322-db83-dbed-a41e-136bbd0ece16
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-2-newtons-laws/7.3-solving-pulley-systems) | [Next]({{< baseurl >}}/pages/week-2-newtons-laws/dd.1.1-friction-at-the-nanoscale) »
+« {{% resource_link ef2f6577-d6ef-5a62-65c9-c39914f4367e "Previous" %}} | {{% resource_link 9645d508-f2f5-91c3-d286-68b53745d928 "Next" %}} »
 
 {{< resource 677ab5be-3324-2aca-2465-723dc8237e62 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-2-newtons-laws/7.3-solving-pulley-systems) | [Next]({{< baseurl >}}/pages/week-2-newtons-laws/dd.1.1-friction-at-the-nanoscale) »
+« {{% resource_link ef2f6577-d6ef-5a62-65c9-c39914f4367e "Previous" %}} | {{% resource_link 9645d508-f2f5-91c3-d286-68b53745d928 "Next" %}} »

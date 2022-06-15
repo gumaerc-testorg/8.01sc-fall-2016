@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a table of contents for Problem Set 9 and the Problem
+  Set 9 file.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 9: Collision Theory'
@@ -9,7 +11,7 @@ title: Problem Set 9
 uid: 40038e11-5d10-2264-d181-2356238564ec
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-9-collision-theory/dd.2.7-change-in-the-kinetic-energy) | [Next]({{< baseurl >}}/pages/week-10-rotational-motion) »
+« {{% resource_link 4f7d82e5-73dd-c5e1-2a96-aef184e27ed2 "Previous" %}} | {{% resource_link 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47 "Next" %}} »
 
 Problem Set 9 contains the following problems:
 
@@ -20,6 +22,6 @@ Problem Set 9 contains the following problems:
 5.  Bullet-Spring Collision
 6.  Elastic 2D Collision
 
-*   [Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset9)
+*   {{% resource_link aa4bd69b-a9ac-09a4-2a3d-75892d2c46c6 "Problem Set 9 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/week-9-collision-theory/dd.2.7-change-in-the-kinetic-energy) | [Next]({{< baseurl >}}/pages/week-10-rotational-motion) »
+« {{% resource_link 4f7d82e5-73dd-c5e1-2a96-aef184e27ed2 "Previous" %}} | {{% resource_link 146d8dd7-7c99-bbaf-ceb8-ed10af8bee47 "Next" %}} »

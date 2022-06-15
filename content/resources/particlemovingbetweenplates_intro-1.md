@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-01sc-classical-mechanics-fall-2016/167cca16fad64cfe5da357fbbe5dc573_ParticleMovingBetweenPlates_intro.svg
+file: /courses/8-01sc-classical-mechanics-fall-2016/167cca16fad64cfe5da357fbbe5dc573_ParticleMovingBetweenPlates_intro.svg
 file_type: image/svg+xml
 image_metadata:
   caption: ''

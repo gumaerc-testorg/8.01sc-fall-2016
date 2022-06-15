@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Rolling Wheel in the Ground Frame.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 12: Rotations and Translation - Rolling'
@@ -9,8 +10,8 @@ title: 35.3 Rolling Wheel in the Ground Frame
 uid: 1be03849-15bb-98d7-dc04-82ff2da28f98
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/35.2-rolling-wheel-in-the-center-of-mass-frame) | [Next]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/35.4-rolling-without-slipping-slipping-and-skidding) »
+« {{% resource_link 08c4edd4-b9bf-a4da-3830-00d191309dc1 "Previous" %}} | {{% resource_link 30156a4d-14f4-33f7-b6ac-b21aedd09d31 "Next" %}} »
 
 {{< resource aa8d2c7e-a62f-4ac4-83d6-f3496a3423f0 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/35.2-rolling-wheel-in-the-center-of-mass-frame) | [Next]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/35.4-rolling-without-slipping-slipping-and-skidding) »
+« {{% resource_link 08c4edd4-b9bf-a4da-3830-00d191309dc1 "Previous" %}} | {{% resource_link 30156a4d-14f4-33f7-b6ac-b21aedd09d31 "Next" %}} »

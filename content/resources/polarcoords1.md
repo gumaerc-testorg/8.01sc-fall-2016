@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-01sc-classical-mechanics-fall-2016/41c189b5309d6b11cfa74969017977e6_polarCoords1.svg
+file: /courses/8-01sc-classical-mechanics-fall-2016/41c189b5309d6b11cfa74969017977e6_polarCoords1.svg
 file_type: image/svg+xml
 image_metadata:
   caption: ''

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Introduction to Acceleration.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 1: Kinematics'
@@ -9,8 +10,8 @@ title: 2.1 Introduction to Acceleration
 uid: 044c013e-e454-a053-8e54-74d995c51062
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-1-kinematics/1.7-worked-example-derivatives-in-kinematics) | [Next]({{< baseurl >}}/pages/week-1-kinematics/2.2-acceleration-in-1d) »
+« {{% resource_link 4b4d3f00-ac10-19a8-a4b6-6a56291c1228 "Previous" %}} | {{% resource_link b230ed3c-9600-c2ea-ae03-c8ae234dd977 "Next" %}} »
 
 {{< resource ca54e7b9-c747-9282-d91b-3d09691d8118 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-1-kinematics/1.7-worked-example-derivatives-in-kinematics) | [Next]({{< baseurl >}}/pages/week-1-kinematics/2.2-acceleration-in-1d) »
+« {{% resource_link 4b4d3f00-ac10-19a8-a4b6-6a56291c1228 "Previous" %}} | {{% resource_link b230ed3c-9600-c2ea-ae03-c8ae234dd977 "Next" %}} »

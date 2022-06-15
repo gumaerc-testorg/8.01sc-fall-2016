@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains information about List of Useful Integrals.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 1: Kinematics'
@@ -9,7 +10,7 @@ title: 2.5 List of Useful Integrals
 uid: 52166d73-6e4e-5e12-6d64-5ad6a0c7a9f2
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-1-kinematics/2.4-integration) | [Next]({{< baseurl >}}/pages/week-1-kinematics/3.1-coordinate-system-and-position-vector-in-2d) »
+« {{% resource_link 80bbab7a-5245-7ea7-acb5-deb15fb9c9cb "Previous" %}} | {{% resource_link 355b5de2-6116-b582-7ce8-833ba051ad9f "Next" %}} »
 
 **List of useful integrals**
 
@@ -46,4 +47,4 @@ uid: 52166d73-6e4e-5e12-6d64-5ad6a0c7a9f2
 
 [Wolfram Alpha](http://www.wolframalpha.com/)
 
-« [Previous]({{< baseurl >}}/pages/week-1-kinematics/2.4-integration) | [Next]({{< baseurl >}}/pages/week-1-kinematics/3.1-coordinate-system-and-position-vector-in-2d) »
+« {{% resource_link 80bbab7a-5245-7ea7-acb5-deb15fb9c9cb "Previous" %}} | {{% resource_link 355b5de2-6116-b582-7ce8-833ba051ad9f "Next" %}} »

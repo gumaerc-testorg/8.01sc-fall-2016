@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This page contains the video Worked Example: Pushing Stacked Blocks.'
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 2: Newton''s Laws'
@@ -9,11 +10,11 @@ title: 'PS.2.2 Worked Example: Pushing Stacked Blocks'
 uid: 00aef642-3d37-f1e0-8db3-ced31e4003c0
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-2-newtons-laws/ps.2.1-worked-example-sliding-block) | [Next]({{< baseurl >}}/pages/week-2-newtons-laws/ps.2.3-window-washer-problem) »
+« {{% resource_link 049199c2-b750-bf9b-0743-89e653cf5020 "Previous" %}} | {{% resource_link 490e27c7-9c4c-14bb-971b-8ce6ece1d220 "Next" %}} »
 
 Consider two blocks that are resting one on top of the other. The lower block has mass \\(\\displaystyle m\_1\\) and is resting on a surface. The upper block has mass \\(\\displaystyle m\_2\<m\_1\\) . Suppose the coefficient of static friction between the blocks is \\(\\displaystyle \\mu \_ s\\) . A horizontal force of magnitude \\(\\displaystyle F\\) is applied to block 1 as shhown.
 
-![A diagram of the two blocks being pushed.]({{< resource_file 9af7d45f-edb6-23ee-e81e-08b6e024979f >}})
+{{< resource 9af7d45f-edb6-23ee-e81e-08b6e024979f >}}
 
 The goal of this problem is to calculate the maximum value of \\(\\displaystyle F\\) with which the lower block can be pushed horizontally so that the two blocks move together without slipping?
 
@@ -42,4 +43,4 @@ Worked Example - Stacked Blocks - Choosing the System of 2 Blocks Together
 
 {{< resource af893009-d700-7661-a086-1bed13a33e68 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-2-newtons-laws/ps.2.1-worked-example-sliding-block) | [Next]({{< baseurl >}}/pages/week-2-newtons-laws/ps.2.3-window-washer-problem) »
+« {{% resource_link 049199c2-b750-bf9b-0743-89e653cf5020 "Previous" %}} | {{% resource_link 490e27c7-9c4c-14bb-971b-8ce6ece1d220 "Next" %}} »

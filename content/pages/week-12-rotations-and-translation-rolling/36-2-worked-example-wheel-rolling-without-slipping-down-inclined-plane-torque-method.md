@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains the video Worked Example - Wheel Rolling Without Slipping
+  Down Inclined Plane - Torque Method.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 12: Rotations and Translation - Rolling'
@@ -10,8 +12,8 @@ title: 36.2 Worked Example - Wheel Rolling Without Slipping Down Inclined Plane 
 uid: 7ec4c751-9983-1ed5-fc36-1da93d0a2ec1
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/36.1-friction-on-a-rolling-wheel) | [Next]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/36.3-spool-demo) »
+« {{% resource_link ee20a48f-3d82-3723-cbbe-56ea037659af "Previous" %}} | {{% resource_link b5e3641a-636b-f146-14bb-038579a3ca63 "Next" %}} »
 
 {{< resource 651aef6f-077a-eaa0-3511-bcdffb32c3ac >}}
 
-« [Previous]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/36.1-friction-on-a-rolling-wheel) | [Next]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/36.3-spool-demo) »
+« {{% resource_link ee20a48f-3d82-3723-cbbe-56ea037659af "Previous" %}} | {{% resource_link b5e3641a-636b-f146-14bb-038579a3ca63 "Next" %}} »

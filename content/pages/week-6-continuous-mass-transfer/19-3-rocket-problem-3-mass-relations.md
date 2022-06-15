@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Rocket Problem 3 - Mass Relations.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 6: Continuous Mass Transfer'
@@ -9,8 +10,8 @@ title: 19.3 Rocket Problem 3 - Mass Relations
 uid: 78a84152-5b28-227b-c8d0-8716d5847434
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-6-continuous-mass-transfer/19.2-rocket-problem-2-momentum-diagrams) | [Next]({{< baseurl >}}/pages/week-6-continuous-mass-transfer/19.4-rocket-problem-4-solution) »
+« {{% resource_link ed163823-1351-9f3e-c9dd-75d373891890 "Previous" %}} | {{% resource_link e1a8df04-cee1-4060-755e-4242aee931be "Next" %}} »
 
 {{< resource e8c0405d-115b-92c5-3c3f-1aeefa39b170 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-6-continuous-mass-transfer/19.2-rocket-problem-2-momentum-diagrams) | [Next]({{< baseurl >}}/pages/week-6-continuous-mass-transfer/19.4-rocket-problem-4-solution) »
+« {{% resource_link ed163823-1351-9f3e-c9dd-75d373891890 "Previous" %}} | {{% resource_link e1a8df04-cee1-4060-755e-4242aee931be "Next" %}} »

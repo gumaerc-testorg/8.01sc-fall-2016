@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains information about Review of Rotational Kinematics.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 3: Circular Motion'
@@ -9,7 +10,7 @@ title: 10.4 Review of Rotational Kinematics
 uid: 51b4cd02-6a4b-bc73-6234-4bfeed548a95
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-3-circular-motion/10.3-worked-example-angular-position-from-angular-acceleration) | [Next]({{< baseurl >}}/pages/week-3-circular-motion/11.1-newtons-2nd-law-and-circular-motion) »
+« {{% resource_link 8992e0cf-af5f-2ab2-d813-cd1facefbf81 "Previous" %}} | {{% resource_link 7e23662a-3078-b1c8-b4f5-1d9c948bab03 "Next" %}} »
 
 Position: \\(\\vec{r}(t)=r\\hat{r}\\)
 
@@ -27,4 +28,4 @@ Acceleration: \\(\\vec{a}=a\_r\\hat{r}+a\_{\\theta}\\hat{\\theta} \\)
 
 \\(a\_r = -\\frac{v^2}{r} = -r(\\dfrac{d\\theta}{dt})^2, a\_{\\theta} = r\\dfrac{d^2\\theta}{dt^2}= r\\alpha\_z\\)
 
-« [Previous]({{< baseurl >}}/pages/week-3-circular-motion/10.3-worked-example-angular-position-from-angular-acceleration) | [Next]({{< baseurl >}}/pages/week-3-circular-motion/11.1-newtons-2nd-law-and-circular-motion) »
+« {{% resource_link 8992e0cf-af5f-2ab2-d813-cd1facefbf81 "Previous" %}} | {{% resource_link 7e23662a-3078-b1c8-b4f5-1d9c948bab03 "Next" %}} »

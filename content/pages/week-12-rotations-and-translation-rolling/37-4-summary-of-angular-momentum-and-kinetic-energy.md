@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains information about Summary of Angular Momentum and
+  Kinetic Energy.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 12: Rotations and Translation - Rolling'
@@ -9,13 +11,13 @@ title: 37.4 Summary of Angular Momentum and Kinetic Energy
 uid: b3f85755-e9b8-b768-41cb-cdf53171cfc6
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/37.3-angular-momentum-of-translation-and-rotation) | [Next]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors) »
+« {{% resource_link 000aca2a-6673-bebe-bca1-cca975a696f5 "Previous" %}} | {{% resource_link d1c38e53-0c20-d699-f2e8-3e7f0242c713 "Next" %}} »
 
 **Fixed Axis Rotation vs. Translation and Rotation**
 
 Here we contrast the expressions of the angular momentum and kinetic energy for a rigid object rotating about a fixed axis vs. a rigid object translating and rotating. For the case of fixed axis rotation, the object is pivoted about point S, left figure. Both rods are identical, length \\(d\\), mass \\(m\\), moment of inertia about an axis passing through the center of mass \\(I\_{cm}\\), and about an axis passing through point \\(S\\) is \\(I\_S\\). The plane of rotation is contained in he plane of the screen. The position vector of the center of mass measured with respect to \\(S\\) is \\(\\vec{r}\_{cm}\\).
 
-![A diagram showing the difference between fixed axis rotation and translational rotation.]({{< resource_file a2566fef-5a40-6990-630c-48f22203573b >}})
+{{< resource a2566fef-5a40-6990-630c-48f22203573b >}}
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -62,4 +64,4 @@ For the same reason as before, this is true because the speed of the center of m
 
 To avoid confusion, we advise you to always write \\(\\vec{L}\_S = I\_S\\vec{\\omega}\\) and \\(K = \\frac{1}{2}I\_S\\omega^2\\) for the case of fixed axis rotation.
 
-« [Previous]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/37.3-angular-momentum-of-translation-and-rotation) | [Next]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors) »
+« {{% resource_link 000aca2a-6673-bebe-bca1-cca975a696f5 "Previous" %}} | {{% resource_link d1c38e53-0c20-d699-f2e8-3e7f0242c713 "Next" %}} »

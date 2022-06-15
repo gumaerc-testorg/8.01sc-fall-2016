@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-01sc-classical-mechanics-fall-2016/5c0511873bddef77db501d8c84e65623_ropes_and_pulley_intro.svg
+file: /courses/8-01sc-classical-mechanics-fall-2016/5c0511873bddef77db501d8c84e65623_ropes_and_pulley_intro.svg
 file_type: image/svg+xml
 image_metadata:
   caption: ''

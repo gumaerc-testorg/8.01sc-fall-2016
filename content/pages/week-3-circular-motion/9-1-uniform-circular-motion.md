@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Uniform Circular Motion.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 3: Circular Motion'
@@ -9,7 +10,7 @@ title: 9.1 Uniform Circular Motion
 uid: dfa7cfb2-5de4-0721-4c7b-99d451dc900f
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-3-circular-motion/8.3-angular-velocity) | [Next]({{< baseurl >}}/pages/week-3-circular-motion/9.2-uniform-circular-motion-direction-of-the-acceleration) »
+« {{% resource_link 5d290005-eb1b-3ec2-03b4-ec8540d3d163 "Previous" %}} | {{% resource_link 99b2aae9-1efd-1f4b-85d0-04692793deb9 "Next" %}} »
 
 Uniform Circular Motion: \\(\\frac{d\\theta}{dt}=constant\\)
 
@@ -19,4 +20,4 @@ The magnitude of the radial acceleration can be written as \\(|a\_r|=\\frac{v^2}
 
 {{< resource 9e0bce9c-3de3-b81c-5c17-ab7514968d84 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-3-circular-motion/8.3-angular-velocity) | [Next]({{< baseurl >}}/pages/week-3-circular-motion/9.2-uniform-circular-motion-direction-of-the-acceleration) »
+« {{% resource_link 5d290005-eb1b-3ec2-03b4-ec8540d3d163 "Previous" %}} | {{% resource_link 99b2aae9-1efd-1f4b-85d0-04692793deb9 "Next" %}} »

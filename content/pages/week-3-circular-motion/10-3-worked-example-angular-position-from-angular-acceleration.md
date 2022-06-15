@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains the video Worked Example - Angular Position from Angular
+  Acceleration.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 3: Circular Motion'
@@ -9,9 +11,9 @@ title: 10.3 Worked Example - Angular Position from Angular Acceleration
 uid: 8992e0cf-af5f-2ab2-d813-cd1facefbf81
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-3-circular-motion/10.2-angular-acceleration) | [Next]({{< baseurl >}}/pages/week-3-circular-motion/10.4-review-of-rotational-kinematics) »
+« {{% resource_link 08e40d5c-6ee9-89ee-a653-bc06afe5862d "Previous" %}} | {{% resource_link 51b4cd02-6a4b-bc73-6234-4bfeed548a95 "Next" %}} »
 
-![A diagram illustrating circular motion and acceleration.]({{< resource_file f7ad06d2-6606-dece-d1fa-d5bc7f34c8f8 >}})
+{{< resource f7ad06d2-6606-dece-d1fa-d5bc7f34c8f8 >}}
 
 A particle is moving in a circle of radius \\(\\displaystyle r\\) with an angular acceleration given by \\(\\displaystyle \\vec{\\alpha }(t)=\\dfrac {1}{r}(A-Bt)\\hat{k}\\), or \\(\\displaystyle a\_{\\theta }=(A-Bt)\\hat{\\theta }\\) where \\(\\displaystyle A\\) and \\(\\displaystyle B\\) are positive constants. At time \\(\\displaystyle t\_0=0\\), the particle is at an angle \\(\\displaystyle \\theta (0)\\) measured with respect to the \\(\\displaystyle +x\\)-axis, and the tangential component of its velocity is \\(\\displaystyle v\_{\\theta }(0)=v\_0\\).
 
@@ -19,4 +21,4 @@ Find the particle's angular position \\(\\displaystyle \\theta (t)\\) as a funct
 
 {{< resource 91aa478a-5448-1b89-99fd-bc6392c3777f >}}
 
-« [Previous]({{< baseurl >}}/pages/week-3-circular-motion/10.2-angular-acceleration) | [Next]({{< baseurl >}}/pages/week-3-circular-motion/10.4-review-of-rotational-kinematics) »
+« {{% resource_link 08e40d5c-6ee9-89ee-a653-bc06afe5862d "Previous" %}} | {{% resource_link 51b4cd02-6a4b-bc73-6234-4bfeed548a95 "Next" %}} »

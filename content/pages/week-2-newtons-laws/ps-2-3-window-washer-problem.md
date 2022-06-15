@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Window Washer Problem.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 2: Newton''s Laws'
@@ -9,9 +10,9 @@ title: PS.2.3 Window Washer Problem
 uid: 490e27c7-9c4c-14bb-971b-8ce6ece1d220
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks) | [Next]({{< baseurl >}}/pages/week-2-newtons-laws/problem-set-2) »
+« {{% resource_link 00aef642-3d37-f1e0-8db3-ced31e4003c0 "Previous" %}} | {{% resource_link 8ccbac1b-73cb-9336-f306-7bd24cd30b21 "Next" %}} »
 
-![A diagram showing a window washer standing on a platform hanging from the ceiling by two pulleys.]({{< resource_file 8795a8d9-c0b5-0bce-53c1-01ec09dd4356 >}})
+{{< resource 8795a8d9-c0b5-0bce-53c1-01ec09dd4356 >}}
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A window washer of mass \\(\\displaystyle m\\) is sitting on a horizontal platform of negligible mass. The platform is held up by the two pulleys and the two ropes (A and B) shown in the figure. The person is able to pull Rope B downwards in such a way that the platform accelerates upwards with an acceleration of magnitude \\(\\displaystyle a\\). Assume the ropes and pulleys to be massless. The goal of the problem is to calculate the force exerted by the window washer on rope B in terms of \\(\\displaystyle a\\), \\(\\displaystyle m\\) and \\(\\displaystyle g\\) as needed.
@@ -50,4 +51,4 @@ Window Washer Solution
 
 {{< resource b04dac83-2e14-6064-9161-7bcefaab013d >}}
 
-« [Previous]({{< baseurl >}}/pages/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks) | [Next]({{< baseurl >}}/pages/week-2-newtons-laws/problem-set-2) »
+« {{% resource_link 00aef642-3d37-f1e0-8db3-ced31e4003c0 "Previous" %}} | {{% resource_link 8ccbac1b-73cb-9336-f306-7bd24cd30b21 "Next" %}} »

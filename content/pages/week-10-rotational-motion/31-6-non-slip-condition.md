@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains information about Non-Slip Condition.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 10: Rotational Motion'
@@ -9,7 +10,7 @@ title: 31.6 Non-Slip Condition
 uid: 9426040b-a330-30d7-59a1-1326ef067c79
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-10-rotational-motion/31.5-massive-pulley-problems) | [Next]({{< baseurl >}}/pages/week-10-rotational-motion/31.7-worked-example-two-blocks-and-a-pulley-using-energy) »
+« {{% resource_link a8b95d55-7ec9-7701-38ba-9fcdf3e90149 "Previous" %}} | {{% resource_link 31176412-23be-cbd3-e6d5-c694174cdbcf "Next" %}} »
 
 Constraints for Rotational Motion about a Fixed Axis
 ----------------------------------------------------
@@ -21,7 +22,7 @@ Below we discuss the constraint imposed by a rope wrapped around a massive pulle
 1.  **Non-slip condition:** the rope does not slip relative to the pulley.
 2.  **Ideal Rope:** massless rope with constant length.
 
-![A diagram illustrating the rotation of a pulley in the non-slip condition.]({{< resource_file 415f1853-e6e3-96de-ca82-8c013fe19829 >}})
+{{< resource 415f1853-e6e3-96de-ca82-8c013fe19829 >}}
 
 Consider the three points A, B and C in the rope. At time \\(t\\), left figure, point A is in contact with the pulley and at an angle \\(\\theta\\) with respect to the horizontal, point B is the point where the rope detaches from the pulley, and point C is the point in the rope in contact with the block. The length of the portion of the rope between points A and B is the arlclength \\(s\\), where \\(s = R\\theta \\).
 
@@ -37,4 +38,4 @@ After taking the derivative with respect to time, the acceleration of the block 
 
 \\(\\displaystyle a = R \\alpha\\)
 
-« [Previous]({{< baseurl >}}/pages/week-10-rotational-motion/31.5-massive-pulley-problems) | [Next]({{< baseurl >}}/pages/week-10-rotational-motion/31.7-worked-example-two-blocks-and-a-pulley-using-energy) »
+« {{% resource_link a8b95d55-7ec9-7701-38ba-9fcdf3e90149 "Previous" %}} | {{% resource_link 31176412-23be-cbd3-e6d5-c694174cdbcf "Next" %}} »

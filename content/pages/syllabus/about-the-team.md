@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes photos and biographies of the course team
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
@@ -9,7 +10,7 @@ title: About the Team
 uid: 63b200b4-6b93-d532-b387-9a3d37067265
 ---
 
-« [Previous]({{< baseurl >}}/pages/syllabus) | [Next]({{< baseurl >}}/pages/readings) »
+« {{% resource_link 8488bde4-6909-b726-a411-abeee039ef1a "Previous" %}} | {{% resource_link 8897a3b7-567f-b552-81b3-2f8a1de7b53b "Next" %}} »
 
 Deepto Chakrabarty
 ------------------
@@ -17,7 +18,7 @@ Deepto Chakrabarty
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Deepto Chakrabarty]({{< resource_file 9553fdac-9d6d-49ea-4c3e-c9eef62212a4 >}})
+{{< resource 9553fdac-9d6d-49ea-4c3e-c9eef62212a4 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -37,7 +38,7 @@ Saif Rayyan
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Saif Rayyan]({{< resource_file f1cc92e0-9027-b13b-dda9-67f59006f03f >}})
+{{< resource f1cc92e0-9027-b13b-dda9-67f59006f03f >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -57,7 +58,7 @@ Peter Dourmashkin
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Peter Dourmashkin]({{< resource_file 0cff5830-59d1-526e-e814-c865a9d35695 >}})
+{{< resource 0cff5830-59d1-526e-e814-c865a9d35695 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -77,7 +78,7 @@ Analia Barrantes
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Analia Barrantes]({{< resource_file dca70e05-6832-9daf-cad9-675b02d5e14b >}})
+{{< resource dca70e05-6832-9daf-cad9-675b02d5e14b >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -97,7 +98,7 @@ Michelle Tomasik
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Michelle Tomasik]({{< resource_file d01856a9-6347-5c15-124a-3ccf5d399a4a >}})
+{{< resource d01856a9-6347-5c15-124a-3ccf5d399a4a >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -117,7 +118,7 @@ George Stephans
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![George Stephans]({{< resource_file ae1b1b3a-d06a-6ac3-b234-2627de6d577f >}})
+{{< resource ae1b1b3a-d06a-6ac3-b234-2627de6d577f >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -137,7 +138,7 @@ Anna Frebel
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Anna Frebel]({{< resource_file 44b60b04-c487-205f-d9f8-c9c8ce4ebf50 >}})
+{{< resource 44b60b04-c487-205f-d9f8-c9c8ce4ebf50 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -151,4 +152,4 @@ Anna Frebel is the Silverman ('68) Family Career Development Professor and Assis
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/syllabus) | [Next]({{< baseurl >}}/pages/readings) »
+« {{% resource_link 8488bde4-6909-b726-a411-abeee039ef1a "Previous" %}} | {{% resource_link 8897a3b7-567f-b552-81b3-2f8a1de7b53b "Next" %}} »

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Displacement Vector in 1D.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 1: Kinematics'
@@ -9,7 +10,7 @@ title: 1.3 Displacement Vector in 1D
 uid: 6173eb99-6342-4c07-c274-ecc71fbee808
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-1-kinematics/1.2-position-vector-in-1d) | [Next]({{< baseurl >}}/pages/week-1-kinematics/1.4-average-velocity-in-1d) »
+« {{% resource_link 799bf53d-83c8-7eb3-a5e2-fdd46d4c66a3 "Previous" %}} | {{% resource_link d33e0e78-7346-2da7-11ec-a59fb555dab2 "Next" %}} »
 
 **Distance:** Is the length of the path travelled by an object between two points in space. From its definition, the distance is a scalar and it is always a positive quantity.
 
@@ -17,4 +18,4 @@ uid: 6173eb99-6342-4c07-c274-ecc71fbee808
 
 {{< resource 4089a438-fc06-f234-e3a9-896e451ef936 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-1-kinematics/1.2-position-vector-in-1d) | [Next]({{< baseurl >}}/pages/week-1-kinematics/1.4-average-velocity-in-1d) »
+« {{% resource_link 799bf53d-83c8-7eb3-a5e2-fdd46d4c66a3 "Previous" %}} | {{% resource_link d33e0e78-7346-2da7-11ec-a59fb555dab2 "Next" %}} »

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a table of contents for Problem Set 3 and the Problem
+  Set 3 file.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 3: Circular Motion'
@@ -9,7 +11,7 @@ title: Problem Set 3
 uid: b4856988-2d63-2e38-e951-e3761d791ad5
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion) | [Next]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems) »
+« {{% resource_link 938ca53b-e5be-db20-7d92-fe94493d1b80 "Previous" %}} | {{% resource_link 919a2c50-6eb4-551d-940b-b0dbab2356f0 "Next" %}} »
 
 Problem Set 3 contains the following problems:
 
@@ -20,6 +22,6 @@ Problem Set 3 contains the following problems:
 5.  Satellite
 6.  A Coin on a Rotating Disk
 
-*   [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset3)
+*   {{% resource_link 4b332aab-1695-e67f-dcbc-0f4c3924134e "Problem Set 3 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion) | [Next]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems) »
+« {{% resource_link 938ca53b-e5be-db20-7d92-fe94493d1b80 "Previous" %}} | {{% resource_link 919a2c50-6eb4-551d-940b-b0dbab2356f0 "Next" %}} »

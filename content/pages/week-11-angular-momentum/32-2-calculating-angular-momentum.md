@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Calculating Angular Momentum.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 11: Angular Momentum'
@@ -9,8 +10,8 @@ title: 32.2 Calculating Angular Momentum
 uid: 9a737552-bdc9-c829-a161-0f005e91aabd
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-11-angular-momentum/32.1-angular-momentum-for-a-point-particle) | [Next]({{< baseurl >}}/pages/week-11-angular-momentum/32.3-worked-example-angular-momentum-about-different-points) »
+« {{% resource_link 432d416e-7880-ce79-80b5-07f7884c036e "Previous" %}} | {{% resource_link 884110c0-b77a-e3a5-d780-c9d382fb5a33 "Next" %}} »
 
 {{< resource d10f518a-0c70-fca5-02f9-eb212e5fae9e >}}
 
-« [Previous]({{< baseurl >}}/pages/week-11-angular-momentum/32.1-angular-momentum-for-a-point-particle) | [Next]({{< baseurl >}}/pages/week-11-angular-momentum/32.3-worked-example-angular-momentum-about-different-points) »
+« {{% resource_link 432d416e-7880-ce79-80b5-07f7884c036e "Previous" %}} | {{% resource_link 884110c0-b77a-e3a5-d780-c9d382fb5a33 "Next" %}} »

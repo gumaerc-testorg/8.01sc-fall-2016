@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: PS.1.1 Three Questions Before Starting
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 **Instructor:** Dr. Michelle Tomasik
+
+
+

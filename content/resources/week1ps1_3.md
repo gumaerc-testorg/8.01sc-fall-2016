@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-01sc-classical-mechanics-fall-2016/56f8dd967450729c091f83315a6e971b_week1ps1_3.svg
+file: /courses/8-01sc-classical-mechanics-fall-2016/56f8dd967450729c091f83315a6e971b_week1ps1_3.svg
 file_type: image/svg+xml
 image_metadata:
   caption: ''

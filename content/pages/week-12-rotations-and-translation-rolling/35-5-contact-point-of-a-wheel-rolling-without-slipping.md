@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains the video Contact Point of a Wheel Rolling Without
+  Slipping.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 12: Rotations and Translation - Rolling'
@@ -9,8 +11,8 @@ title: 35.5 Contact Point of a Wheel Rolling Without Slipping
 uid: cdb356d3-d809-350f-737b-eeaaa152c318
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/35.4-rolling-without-slipping-slipping-and-skidding) | [Next]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/36.1-friction-on-a-rolling-wheel) »
+« {{% resource_link 30156a4d-14f4-33f7-b6ac-b21aedd09d31 "Previous" %}} | {{% resource_link ee20a48f-3d82-3723-cbbe-56ea037659af "Next" %}} »
 
 {{< resource f4ba7e37-47c6-8472-f75e-39a5832567ac >}}
 
-« [Previous]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/35.4-rolling-without-slipping-slipping-and-skidding) | [Next]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/36.1-friction-on-a-rolling-wheel) »
+« {{% resource_link 30156a4d-14f4-33f7-b6ac-b21aedd09d31 "Previous" %}} | {{% resource_link ee20a48f-3d82-3723-cbbe-56ea037659af "Next" %}} »

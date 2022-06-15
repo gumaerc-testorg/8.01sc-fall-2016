@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Solve for Velocity in the Moving Frame.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 6: Continuous Mass Transfer'
@@ -9,8 +10,8 @@ title: 18.4 Solve for Velocity in the Moving Frame
 uid: 9fb8e827-040a-6b8b-efe9-5b0076e804ce
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-6-continuous-mass-transfer/18.3-solve-for-velocity-in-the-ground-frame) | [Next]({{< baseurl >}}/pages/week-6-continuous-mass-transfer/19.1-rocket-problem-1-set-up-the-problem) »
+« {{% resource_link fedac271-b3c4-8233-59f5-4d93cc01e4f4 "Previous" %}} | {{% resource_link 3f6e8996-2a82-6cca-515d-e0c4378dde38 "Next" %}} »
 
 {{< resource 296e8b03-52d2-b1bf-d425-bd9b2b88a3a8 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-6-continuous-mass-transfer/18.3-solve-for-velocity-in-the-ground-frame) | [Next]({{< baseurl >}}/pages/week-6-continuous-mass-transfer/19.1-rocket-problem-1-set-up-the-problem) »
+« {{% resource_link fedac271-b3c4-8233-59f5-4d93cc01e4f4 "Previous" %}} | {{% resource_link 3f6e8996-2a82-6cca-515d-e0c4378dde38 "Next" %}} »

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a table of contents for Problem Set 4 and the Problem
+  Set 4 file.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 4: Drag Forces, Constraints and Continuous Systems'
@@ -9,7 +11,7 @@ title: Problem Set 4
 uid: b9bf868d-daf0-7c06-6058-0d06be825a09
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems/14.3-resistive-forces-high-speed-case) | [Next]({{< baseurl >}}/pages/week-5-momentum-and-impulse) »
+« {{% resource_link cc32eace-0df4-1367-1aa6-9a03a79b0c59 "Previous" %}} | {{% resource_link c1168b62-a27d-cf9f-3fe2-550af1ed72f5 "Next" %}} »
 
 Problem Set 4 contains the following problems:
 
@@ -20,6 +22,6 @@ Problem Set 4 contains the following problems:
 5.  Drag Force at Low Speeds
 6.  Two Pulleys, Two Strings and Two Blocks
 
-*   [Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset4)
+*   {{% resource_link ff43aae2-332b-3882-ac4a-4727301cec56 "Problem Set 4 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems/14.3-resistive-forces-high-speed-case) | [Next]({{< baseurl >}}/pages/week-5-momentum-and-impulse) »
+« {{% resource_link cc32eace-0df4-1367-1aa6-9a03a79b0c59 "Previous" %}} | {{% resource_link c1168b62-a27d-cf9f-3fe2-550af1ed72f5 "Next" %}} »

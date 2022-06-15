@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: PS.7.1 Worked Example - Collision and Sliding on a Rough Surface
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 **Instructor:** Prof. Anna Frebel
+
+
+

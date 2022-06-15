@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-01sc-classical-mechanics-fall-2016/53b3def8fadce7a696411bd49aa3c497_2guwjwIHmGg.srt
+file: /courses/8-01sc-classical-mechanics-fall-2016/53b3def8fadce7a696411bd49aa3c497_2guwjwIHmGg.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

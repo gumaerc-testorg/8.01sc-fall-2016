@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Position in the CM Frame.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 9: Collision Theory'
@@ -9,8 +10,8 @@ title: DD.2.1 Position in the CM Frame
 uid: 07d691dc-35df-da5c-b795-db9825432f91
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-9-collision-theory/27.6-2d-collisions) | [Next]({{< baseurl >}}/pages/week-9-collision-theory/dd.2.2-relative-velocity-is-independent-of-reference-frame) »
+« {{% resource_link 65891973-9096-81b1-bf9e-c10147d08d21 "Previous" %}} | {{% resource_link 6dbad577-bacd-b1f8-1fd0-1be0efbe3ccf "Next" %}} »
 
 {{< resource 277d00a1-dae5-cf4f-d5f6-48ebe9ff691a >}}
 
-« [Previous]({{< baseurl >}}/pages/week-9-collision-theory/27.6-2d-collisions) | [Next]({{< baseurl >}}/pages/week-9-collision-theory/dd.2.2-relative-velocity-is-independent-of-reference-frame) »
+« {{% resource_link 65891973-9096-81b1-bf9e-c10147d08d21 "Previous" %}} | {{% resource_link 6dbad577-bacd-b1f8-1fd0-1be0efbe3ccf "Next" %}} »

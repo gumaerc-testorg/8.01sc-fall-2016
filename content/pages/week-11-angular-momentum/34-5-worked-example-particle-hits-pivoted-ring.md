@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Worked Example - Particle Hits Pivoted Ring.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 11: Angular Momentum'
@@ -9,11 +10,11 @@ title: 34.5 Worked Example - Particle Hits Pivoted Ring
 uid: fd5621ac-f9af-8265-912d-22db4bdfad0a
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-11-angular-momentum/34.4-demo-bicycle-wheel) | [Next]({{< baseurl >}}/pages/week-11-angular-momentum/problem-set-11) »
+« {{% resource_link 1453ead1-4cf5-1b67-9b6f-bbde49dd2fe7 "Previous" %}} | {{% resource_link b8ea2fe1-fcf0-283a-b156-028db7d562eb "Next" %}} »
 
 A rigid ring of radius \\(\\displaystyle R\\) and mass \\(\\displaystyle m\_1\\) is lying on a horizontal frictionless table and pivoted at the point \\(\\displaystyle P\\). The figure is an overhead view, gravity points into the screen. A point-like object of mass \\(\\displaystyle m\_2\\) is moving to the right with speed \\(\\displaystyle v\_ i\\). It collides and sticks to the ring at point \\(\\displaystyle A\\) on the ring as shown in the figure. After the collision, the particle sticks to the ring and both objects rotate together counterclockwise about the pivot point. The angular velocity is pointing out of the page with magnitude \\(\\displaystyle \\omega \_ f\\).
 
-![A diagram of the particle hitting the ring.]({{< resource_file 7cfb0baf-c959-38fb-a21a-bbb511baee49 >}})
+{{< resource 7cfb0baf-c959-38fb-a21a-bbb511baee49 >}}
 
 The goal of this problem is to find \\(\\displaystyle \\omega \_ f\\), the magnitude of the angular velocity of the ring-particle system after the collision.
 
@@ -31,4 +32,4 @@ The mechanical energy is constant.
 
 {{< resource 710e6a3e-a4ef-f053-162b-c280f87e839b >}}
 
-« [Previous]({{< baseurl >}}/pages/week-11-angular-momentum/34.4-demo-bicycle-wheel) | [Next]({{< baseurl >}}/pages/week-11-angular-momentum/problem-set-11) »
+« {{% resource_link 1453ead1-4cf5-1b67-9b6f-bbde49dd2fe7 "Previous" %}} | {{% resource_link b8ea2fe1-fcf0-283a-b156-028db7d562eb "Next" %}} »

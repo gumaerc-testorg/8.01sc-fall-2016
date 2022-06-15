@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Pulley Problems - Part I, Set up the Equations.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 4: Drag Forces, Constraints and Continuous Systems'
@@ -9,13 +10,13 @@ title: 12.1 Pulley Problems - Part I, Set up the Equations
 uid: 05c9879c-c910-2f5c-b8c2-37c856cafd97
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems/week-4-introduction) | [Next]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems/12.2-pulley-problem-part-ii-constraint-condition) »
+« {{% resource_link e7847b2b-6f8e-fc5e-d22d-745b96a68bd1 "Previous" %}} | {{% resource_link e5a45c41-5f7a-27b6-b203-fb8dbe933bd0 "Next" %}} »
 
 In the figure, pulley A is fixed to the ceiling. An ideal rope is attached at one end to block 1 of mass \\(m\_1\\), it passes around a second pulley, labelled B, and its other end is fixed to the ceiling. A second ideal rope attaches pulley B to a second block of mass \\(m\_2\\). As a result, pulley B and block 2 move together.
 
 The goal of the problem is to calculate the accelerations of blocks 1 and 2.
 
-![A diagram of two blocks hanging from two pulleys attached to the ceiling.]({{< resource_file 5c051187-3bdd-ef77-db50-1d8c84e65623 >}})
+{{< resource 5c051187-3bdd-ef77-db50-1d8c84e65623 >}}
 
 The solution of this problem is divided into four parts:
 
@@ -28,4 +29,4 @@ The video below will help you to set up the equations needed to answer the quest
 
 {{< resource fbf35740-dde8-bba6-f2f0-f38a1a67e3c3 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems/week-4-introduction) | [Next]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems/12.2-pulley-problem-part-ii-constraint-condition) »
+« {{% resource_link e7847b2b-6f8e-fc5e-d22d-745b96a68bd1 "Previous" %}} | {{% resource_link e5a45c41-5f7a-27b6-b203-fb8dbe933bd0 "Next" %}} »

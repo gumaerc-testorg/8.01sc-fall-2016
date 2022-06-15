@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Worked Example - Derivatives in Kinematics.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 1: Kinematics'
@@ -9,7 +10,7 @@ title: 1.7 Worked Example - Derivatives in Kinematics
 uid: 4b4d3f00-ac10-19a8-a4b6-6a56291c1228
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-1-kinematics/1.6-derivatives) | [Next]({{< baseurl >}}/pages/week-1-kinematics/2.1-introduction-to-acceleration) »
+« {{% resource_link e2ff4dd6-34aa-9891-22c6-cf27dbab579a "Previous" %}} | {{% resource_link 044c013e-e454-a053-8e54-74d995c51062 "Next" %}} »
 
 A home-built model rocket is launched straight up into the air. At time \\(\\displaystyle t = 0 \\) the rocket is at rest, about to be launched. The position of the rocket as a function of time is given by:
 
@@ -21,4 +22,4 @@ Find \\(\\displaystyle a\\), the \\(\\displaystyle y \\)-component of the accele
 
 {{< resource 4ca58dfd-9e39-bc7d-a406-3d6989000b9c >}}
 
-« [Previous]({{< baseurl >}}/pages/week-1-kinematics/1.6-derivatives) | [Next]({{< baseurl >}}/pages/week-1-kinematics/2.1-introduction-to-acceleration) »
+« {{% resource_link e2ff4dd6-34aa-9891-22c6-cf27dbab579a "Previous" %}} | {{% resource_link 044c013e-e454-a053-8e54-74d995c51062 "Next" %}} »

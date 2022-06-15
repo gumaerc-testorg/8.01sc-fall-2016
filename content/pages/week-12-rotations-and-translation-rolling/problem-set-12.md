@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a table of contents for Problem Set 12 and the
+  Problem Set 12 file.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 12: Rotations and Translation - Rolling'
@@ -9,7 +11,7 @@ title: Problem Set 12
 uid: 7a5814a4-20a1-f456-5d0d-f5ef0b30c31d
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum)
+« {{% resource_link 0e404fc3-2376-af37-0fd1-ea9139691b69 "Previous" %}}
 
 Problem Set 12 contains the following problems:
 
@@ -19,6 +21,6 @@ Problem Set 12 contains the following problems:
 4.  Yo-yo Rolling on Inclined Plane
 5.  Billiards
 
-*   [Problem Set 12 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset12)
+*   {{% resource_link 4f3af212-f682-f52a-6151-aef53415d5b2 "Problem Set 12 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum)
+« {{% resource_link 0e404fc3-2376-af37-0fd1-ea9139691b69 "Previous" %}}

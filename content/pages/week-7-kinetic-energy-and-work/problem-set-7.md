@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a table of contents for Problem Set 7 and the Problem
+  Set 7 file.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 7: Kinetic Energy and Work'
@@ -9,7 +11,7 @@ title: Problem Set 7
 uid: 198483cf-4835-3e5d-6a38-5333ab778504
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-7-kinetic-energy-and-work/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface) | [Next]({{< baseurl >}}/pages/week-8-potential-energy-and-energy-conservation) »
+« {{% resource_link 1a85f658-a6b6-19d1-7082-201370c974dd "Previous" %}} | {{% resource_link 13949981-43ef-cc49-3f7c-98265cfbd3ae "Next" %}} »
 
 Problem Set 7 contains the following problems:
 
@@ -17,6 +19,6 @@ Problem Set 7 contains the following problems:
 2.  Collision and Sliding on a Rough Surface
 3.  Inclined Plane
 
-*   [Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset7)
+*   {{% resource_link 15aa14b5-647e-a989-a352-a972dc4b3dfe "Problem Set 7 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/week-7-kinetic-energy-and-work/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface) | [Next]({{< baseurl >}}/pages/week-8-potential-energy-and-energy-conservation) »
+« {{% resource_link 1a85f658-a6b6-19d1-7082-201370c974dd "Previous" %}} | {{% resource_link 13949981-43ef-cc49-3f7c-98265cfbd3ae "Next" %}} »

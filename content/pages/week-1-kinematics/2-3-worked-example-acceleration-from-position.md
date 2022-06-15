@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Worked Example - Acceleration from Position.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 1: Kinematics'
@@ -9,7 +10,7 @@ title: 2.3 Worked Example - Acceleration from Position
 uid: e2681bc3-7638-1c83-23b6-624545050a09
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-1-kinematics/2.2-acceleration-in-1d) | [Next]({{< baseurl >}}/pages/week-1-kinematics/2.4-integration) »
+« {{% resource_link b230ed3c-9600-c2ea-ae03-c8ae234dd977 "Previous" %}} | {{% resource_link 80bbab7a-5245-7ea7-acb5-deb15fb9c9cb "Next" %}} »
 
 A runner travels along the x-axis, and at time \\(\\displaystyle t=0 \\) is at the origin. The \\(\\displaystyle x \\)-component of the runner's position with respect to the origin is given by:
 
@@ -27,4 +28,4 @@ where \\(\\displaystyle b \\) is a positive constant.
 
 {{< resource a4de5f3e-dcb0-6cb0-eafb-2d0a6ecc9ca2 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-1-kinematics/2.2-acceleration-in-1d) | [Next]({{< baseurl >}}/pages/week-1-kinematics/2.4-integration) »
+« {{% resource_link b230ed3c-9600-c2ea-ae03-c8ae234dd977 "Previous" %}} | {{% resource_link 80bbab7a-5245-7ea7-acb5-deb15fb9c9cb "Next" %}} »

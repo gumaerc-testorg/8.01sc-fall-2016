@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains the video Newton's Third Law.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 2: Newton''s Laws'
@@ -9,8 +10,8 @@ title: 4.2 Newton's Third Law
 uid: 2177d0e5-d0ce-54c6-5457-5859c51c9b60
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-2-newtons-laws/4.1-newtons-first-and-second-laws) | [Next]({{< baseurl >}}/pages/week-2-newtons-laws/4.3-reference-frames) »
+« {{% resource_link aa795ebd-f4fa-443e-b69f-1f033e83a93f "Previous" %}} | {{% resource_link 54de9913-bb60-e096-9b92-edfe927ab3ac "Next" %}} »
 
 {{< resource 2892e023-a213-183d-c210-d923b9937fa6 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-2-newtons-laws/4.1-newtons-first-and-second-laws) | [Next]({{< baseurl >}}/pages/week-2-newtons-laws/4.3-reference-frames) »
+« {{% resource_link aa795ebd-f4fa-443e-b69f-1f033e83a93f "Previous" %}} | {{% resource_link 54de9913-bb60-e096-9b92-edfe927ab3ac "Next" %}} »

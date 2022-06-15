@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a table of contents for Problem Set 6 and the Problem
+  Set 6 file.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Week 6: Continuous Mass Transfer'
@@ -9,7 +11,7 @@ title: Problem Set 6
 uid: e75cbe56-57dc-1b51-c934-c400a80d903c
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem) | [Next]({{< baseurl >}}/pages/week-7-kinetic-energy-and-work) »
+« {{% resource_link a58a3ece-6fdc-129d-7564-5ca98d437fce "Previous" %}} | {{% resource_link 1099b766-7930-f7e5-1ccc-c80d63899c02 "Next" %}} »
 
 Problem Set 6 contains the following problems:
 
@@ -19,6 +21,6 @@ Problem Set 6 contains the following problems:
 4.  Falling Drop
 5.  Moving Vehicle and Falling rain
 
-*   [Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset6)
+*   {{% resource_link 44b46fb9-ae75-7967-5988-4a9a7f7bd167 "Problem Set 6 (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem) | [Next]({{< baseurl >}}/pages/week-7-kinetic-energy-and-work) »
+« {{% resource_link a58a3ece-6fdc-129d-7564-5ca98d437fce "Previous" %}} | {{% resource_link 1099b766-7930-f7e5-1ccc-c80d63899c02 "Next" %}} »
