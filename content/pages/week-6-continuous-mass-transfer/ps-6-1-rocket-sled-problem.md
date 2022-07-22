@@ -1,16 +1,20 @@
 ---
 content_type: page
+description: This page contains the video Rocket Sled Problem.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 6: Continuous Mass Transfer'
+parent_type: CourseSection
 parent_uid: 28d93f13-f552-de72-9aab-415b7158be8e
 title: PS.6.1 Rocket Sled Problem
 uid: ce8e09d4-807a-9422-57ee-603eabb68035
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-6-continuous-mass-transfer/19.7-rocket-problem-7-solution-with-external-forces) | [Next]({{< baseurl >}}/pages/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem) »
+« {{% resource_link ab5149d9-59c5-d77f-cf43-b183d041c866 "Previous" %}} | {{% resource_link a58a3ece-6fdc-129d-7564-5ca98d437fce "Next" %}} »
 
 A rocket sled can eject gas backwards or forwards at a speed \\(\\displaystyle u\\) relative to the sled. The initial mass of the fuel in the sled is equal to dry mass of the sled, \\(\\displaystyle m\_0\\). At \\(\\displaystyle t=0\\) the rocket sled has speed \\(\\displaystyle v\_0\\) and starts to eject fuel in the forward direction in order to slow down. You may ignore air resistance. You may treat \\(\\displaystyle u\\) as a given constant in the following questions.
 
-![A diagram of the Rocket Sled Problem.]({{< resource_file 13ada4c5-e938-ee96-70f4-a78034edabb0 >}})
+{{< resource 13ada4c5-e938-ee96-70f4-a78034edabb0 >}}
 
 **(Part a)** Let \\(\\displaystyle v\_ r(t)\\) be the x-component of the rocket sled velocity, and \\(\\displaystyle m\_ r(t)\\) the mass of the rocket, dry mass and the fuel inside the rocket, at a given time \\(\\displaystyle t\\). Derive differential equation for \\(\\displaystyle v\_ r\\) in terms of \\(\\displaystyle m\_ r\\).
 
@@ -33,4 +37,4 @@ Rocket Sled - Solve for Initial Velocity
 
 {{< resource 743dc3c8-f229-f39a-9e3d-4f5f740f3ee0 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-6-continuous-mass-transfer/19.7-rocket-problem-7-solution-with-external-forces) | [Next]({{< baseurl >}}/pages/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem) »
+« {{% resource_link ab5149d9-59c5-d77f-cf43-b183d041c866 "Previous" %}} | {{% resource_link a58a3ece-6fdc-129d-7564-5ca98d437fce "Next" %}} »

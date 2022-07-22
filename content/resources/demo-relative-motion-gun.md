@@ -1,8 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: 3.5 Demos for Projectile Motion
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Demo: Relative Motion Gun'
 uid: 0cc95664-e453-68a1-ee48-8333a1e1e5d1
 video_files:
@@ -15,3 +26,4 @@ video_metadata:
 ---
 
 **Instructor:** Caleb Bonyun
+

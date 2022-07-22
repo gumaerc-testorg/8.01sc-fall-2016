@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This page contains several videos on Worked Example - Orbital Circular
+  Motion.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Week 3: Circular Motion'
+parent_type: CourseSection
 parent_uid: 3c7d357c-bb95-e729-679b-539d23714ede
 title: PS.3.1 Worked Example - Orbital Circular Motion
 uid: 938ca53b-e5be-db20-7d92-fe94493d1b80
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-3-circular-motion/11.3-demo-rotating-bucket) | [Next]({{< baseurl >}}/pages/week-3-circular-motion/problem-set-3) »
+« {{% resource_link b7f96b05-7d10-13b3-d274-9791547f1e2f "Previous" %}} | {{% resource_link b4856988-2d63-2e38-e951-e3761d791ad5 "Next" %}} »
 
 A person on a spherical asteroid of mass \\(\\displaystyle m\_1\\) and radius \\(\\displaystyle R\\), sees a small satellite of mass \\(\\displaystyle m\_2\\) orbiting the asteroid in a circular orbit of period \\(\\displaystyle T\\).
 
@@ -37,4 +42,4 @@ Orbital Circular Motion - Period
 
 {{< resource aa25475c-905c-4092-6156-481af7c75ed8 >}}
 
-« [Previous]({{< baseurl >}}/pages/week-3-circular-motion/11.3-demo-rotating-bucket) | [Next]({{< baseurl >}}/pages/week-3-circular-motion/problem-set-3) »
+« {{% resource_link b7f96b05-7d10-13b3-d274-9791547f1e2f "Previous" %}} | {{% resource_link b4856988-2d63-2e38-e951-e3761d791ad5 "Next" %}} »

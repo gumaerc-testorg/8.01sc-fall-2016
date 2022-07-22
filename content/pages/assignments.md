@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section includes all problem sets for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 14fc866f-f60f-c69f-19eb-4338bbc87675
 ---
 
-« [Previous]({{< baseurl >}}/pages/readings) | [Next]({{< baseurl >}}/pages/review-vectors) »
+« {{% resource_link 8897a3b7-567f-b552-81b3-2f8a1de7b53b "Previous" %}} | {{% resource_link f8da8d9b-f6a4-78e6-808b-aa7e6aa62306 "Next" %}} »
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -53,23 +57,23 @@ None
 {{< tdopen >}}
 1D Kinematics - Position and Velocity
 {{< tdclose >}}
-{{< tdopen >}}
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset1_new)
+{{< tdopen rowspan="3" >}}
+{{% resource_link 96231b21-bccf-fc0c-17c7-d98629a52eb2 "Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
-[Derivatives in Kinematics]({{< baseurl >}}/pages/week-1-kinematics/1.7-worked-example-derivatives-in-kinematics)
+{{% resource_link 4b4d3f00-ac10-19a8-a4b6-6a56291c1228 "Derivatives in Kinematics" %}}
 
-[Acceleration from Position]({{< baseurl >}}/pages/week-1-kinematics/2.3-worked-example-acceleration-from-position)
+{{% resource_link e2681bc3-7638-1c83-23b6-624545050a09 "Acceleration from Position" %}}
 
-[Shooting the Apple]({{< baseurl >}}/pages/week-1-kinematics/ps.1.2-shooting-the-apple)
+{{% resource_link 3d4cf0c9-ea1b-525e-0dda-74b39d1080a8 "Shooting the Apple" %}}
 
-[Braking Car]({{< baseurl >}}/pages/week-1-kinematics/ps.1.3-worked-example-braking-car)
+{{% resource_link c00c7194-c0ce-a091-fd9b-c5f3ba49fe85 "Braking Car" %}}
 
-[Sketch the Motion]({{< baseurl >}}/pages/week-1-kinematics/ps.1.4-sketch-the-motion)
+{{% resource_link 0f1188dc-261a-bcd9-fb9a-a4c677f9db3a "Sketch the Motion" %}}
 
-[Pedestrian and Bike at Intersection]({{< baseurl >}}/pages/week-1-kinematics/ps.1.5-worked-example-pedestrian-and-bike-at-intersection)
+{{% resource_link 78b6dfdb-1434-37ce-0d07-1e7e7521a24e "Pedestrian and Bike at Intersection" %}}
 
 
 {{< tdclose >}}
@@ -106,19 +110,19 @@ None
 {{< tdopen >}}
 Newton's Laws of Motion
 {{< tdclose >}}
-{{< tdopen >}}
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset2)
+{{< tdopen rowspan="5" >}}
+{{% resource_link 1ebafbf9-c9cc-a8e1-ab19-1ad5ad9026e0 "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 
 
-[Gravity Superposition]({{< baseurl >}}/pages/week-2-newtons-laws/5.2-worked-example-gravity-superposition)
+{{% resource_link f38128e4-b503-ea04-9e1f-d330c59669a7 "Gravity Superposition" %}}
 
-[Sliding Block]({{< baseurl >}}/pages/week-2-newtons-laws/ps.2.1-worked-example-sliding-block)
+{{% resource_link 049199c2-b750-bf9b-0743-89e653cf5020 "Sliding Block" %}}
 
-[Pushing Stacked Blocks]({{< baseurl >}}/pages/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks)
+{{% resource_link 00aef642-3d37-f1e0-8db3-ced31e4003c0 "Pushing Stacked Blocks" %}}
 
-[Window Washer Problem]({{< baseurl >}}/pages/week-2-newtons-laws/ps.2.3-window-washer-problem)
+{{% resource_link 490e27c7-9c4c-14bb-971b-8ce6ece1d220 "Window Washer Problem" %}}
 
 
 {{< tdclose >}}
@@ -173,17 +177,17 @@ Friction
 {{< tdopen >}}
 Circular Motion - Position and Velocity
 {{< tdclose >}}
-{{< tdopen >}}
-[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset3)
+{{< tdopen rowspan="4" >}}
+{{% resource_link 4b332aab-1695-e67f-dcbc-0f4c3924134e "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
-[Angular Position from Angular Acceleration]({{< baseurl >}}/pages/week-3-circular-motion/10.3-worked-example-angular-position-from-angular-acceleration)
+{{% resource_link 8992e0cf-af5f-2ab2-d813-cd1facefbf81 "Angular Position from Angular Acceleration" %}}
 
-[Car on a Banked Turn]({{< baseurl >}}/pages/week-3-circular-motion/11.2-worked-example-car-on-a-banked-turn)
+{{% resource_link c71831d1-bf7e-ac4f-f0e0-21abe0cb6641 "Car on a Banked Turn" %}}
 
-[Orbital Circular Motion]({{< baseurl >}}/pages/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion)
+{{% resource_link 938ca53b-e5be-db20-7d92-fe94493d1b80 "Orbital Circular Motion" %}}
 
 
 {{< tdclose >}}
@@ -212,7 +216,7 @@ Circular Motion - Acceleration
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Newton's 2nd Law and Circular Motion
+Newton's 2{{< sup "nd" >}} Law and Circular Motion
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,11 +233,11 @@ Newton's 2nd Law and Circular Motion
 {{< tdopen >}}
 Pulleys and Constraints
 {{< tdclose >}}
-{{< tdopen >}}
-[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset4)
+{{< tdopen rowspan="3" >}}
+{{% resource_link ff43aae2-332b-3882-ac4a-4727301cec56 "Problem Set 4 (PDF)" %}}
 {{< tdclose >}}
-{{< tdopen >}}
- [2 Blocks and 2 Pulleys]({{< baseurl >}}/pages/week-4-drag-forces-constraints-and-continuous-systems/12.5-worked-example-2-blocks-and-2-pulleys)
+{{< tdopen rowspan="3" >}}
+ {{% resource_link f748652c-b4c5-1b41-6e16-e3ed086b9a18 "2 Blocks and 2 Pulleys" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,17 +272,17 @@ Resistive Forces
 {{< tdopen >}}
 Momentum and Impulse
 {{< tdclose >}}
-{{< tdopen >}}
-[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset5)
+{{< tdopen rowspan="3" >}}
+{{% resource_link ebe813c4-c1e0-a146-9333-80112612a58f "Problem Set 5 (PDF)" %}}
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
-[Bouncing Ball]({{< baseurl >}}/pages/week-5-momentum-and-impulse/15.3-worked-example-bouncing-ball)
+{{% resource_link 8eb0ed0a-f63c-549e-dcc9-c64765a58d66 "Bouncing Ball" %}}
 
-[Center of Mass of 3 Objects]({{< baseurl >}}/pages/week-5-momentum-and-impulse/17.2-worked-example-center-of-mass-of-3-objects)
+{{% resource_link f8bea622-bf57-28ae-33fe-c461b885f557 "Center of Mass of 3 Objects" %}}
 
-[Center of Mass of a Uniform Rod]({{< baseurl >}}/pages/week-5-momentum-and-impulse/17.5-worked-example-center-of-mass-of-a-uniform-rod)
+{{% resource_link 34ea9bcd-7d7e-52f4-40fa-64d7869ae7af "Center of Mass of a Uniform Rod" %}}
 
 
 {{< tdclose >}}
@@ -315,15 +319,15 @@ Center of Mass and Motion of the Center of Mass
 {{< tdopen >}}
 Relative Velocity and Recoil
 {{< tdclose >}}
-{{< tdopen >}}
-[Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset6)
+{{< tdopen rowspan="2" >}}
+{{% resource_link 44b46fb9-ae75-7967-5988-4a9a7f7bd167 "Problem Set 6 (PDF)" %}}
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
-[Rocket Sled Problem]({{< baseurl >}}/pages/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem)
+{{% resource_link ce8e09d4-807a-9422-57ee-603eabb68035 "Rocket Sled Problem" %}}
 
-[Snowplow Problem]({{< baseurl >}}/pages/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem)
+{{% resource_link a58a3ece-6fdc-129d-7564-5ca98d437fce "Snowplow Problem" %}}
 
 
 {{< tdclose >}}
@@ -351,15 +355,15 @@ Continuous Mass Transfer
 {{< tdopen >}}
 Kinetic Energy and Work in 1D
 {{< tdclose >}}
-{{< tdopen >}}
-[Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset7)
+{{< tdopen rowspan="3" >}}
+{{% resource_link 15aa14b5-647e-a989-a352-a972dc4b3dfe "Problem Set 7 (PDF)" %}}
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
-[Block Going Down a Ramp]({{< baseurl >}}/pages/week-7-kinetic-energy-and-work/21.6-worked-example-block-going-down-a-ramp)
+{{% resource_link 40d55c01-9694-3538-eb35-abbec810119d "Block Going Down a Ramp" %}}
 
-[Collision and Sliding on a Rough Surface]({{< baseurl >}}/pages/week-7-kinetic-energy-and-work/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface)
+{{% resource_link 1a85f658-a6b6-19d1-7082-201370c974dd "Collision and Sliding on a Rough Surface" %}}
 
 
 {{< tdclose >}}
@@ -396,13 +400,13 @@ Conservative and Non-conservative Forces
 {{< tdopen >}}
 Potential Energy
 {{< tdclose >}}
-{{< tdopen >}}
-[Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset8)
+{{< tdopen rowspan="3" >}}
+{{% resource_link aaa4c8dd-ef3a-164e-1076-23ec7c65dc0c "Problem Set 8 (PDF)" %}}
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
-[Block Sliding Down Circular Slope]({{< baseurl >}}/pages/week-8-potential-energy-and-energy-conservation/24.3-worked-example-block-sliding-down-circular-slope)
+{{% resource_link 8f01bc6e-120f-eb7d-e6da-20c90a305b73 "Block Sliding Down Circular Slope" %}}
 
 
 {{< tdclose >}}
@@ -439,19 +443,19 @@ Potential Energy Diagrams
 {{< tdopen >}}
 Types of Collision
 {{< tdclose >}}
-{{< tdopen >}}
-[Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset9)
+{{< tdopen rowspan="3" >}}
+{{% resource_link aa4bd69b-a9ac-09a4-2a3d-75892d2c46c6 "Problem Set 9 (PDF)" %}}
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
-[Elastic 1D Collision]({{< baseurl >}}/pages/week-9-collision-theory/27.1-worked-example-elastic-1d-collision)
+{{% resource_link 81ee9da3-5071-cf42-2165-0926ad929f14 "Elastic 1D Collision" %}}
 
-[Elastic 1D Collision Again]({{< baseurl >}}/pages/week-9-collision-theory/27.4-worked-example-elastic-1d-collision-again)
+{{% resource_link bad89c1c-a93e-051f-55c0-42311c822a90 "Elastic 1D Collision Again" %}}
 
-[Gravitational Slingshot]({{< baseurl >}}/pages/week-9-collision-theory/27.5-worked-example-gravitational-slingshot)
+{{% resource_link 5f59027b-133d-d077-d093-570d40c67694 "Gravitational Slingshot" %}}
 
-[1D Elastic Collision in CM]({{< baseurl >}}/pages/week-9-collision-theory/dd.2.4-worked-example-1d-elastic-collision-in-cm)
+{{% resource_link fa64fe64-87b4-7146-141a-6e35eb5cb93c "1D Elastic Collision in CM" %}}
 
 
 {{< tdclose >}}
@@ -488,19 +492,19 @@ Center of Mass Reference Frame
 {{< tdopen >}}
 Motion of a Rigid Body
 {{< tdclose >}}
-{{< tdopen >}}
-[Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset10)
+{{< tdopen rowspan="4" >}}
+{{% resource_link 878cc2b0-18e6-280e-4731-8e3659631d4b "Problem Set 10 (PDF)" %}}
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
-[Find the Moment of Inertia of a Disc from a Falling Mass]({{< baseurl >}}/pages/week-10-rotational-motion/31.3-worked-example-find-the-moment-of-inertia-of-a-disc-from-a-falling-mass)
+{{% resource_link 4c4b7dff-9b7b-8e45-58c2-0037e21a15d8 "Find the Moment of Inertia of a Disc from a Falling Mass" %}}
 
-[Atwood Machine]({{< baseurl >}}/pages/week-10-rotational-motion/31.4-worked-example-atwood-machine)
+{{% resource_link 770f89d7-73c1-236d-f48f-673fd378e5a4 "Atwood Machine" %}}
 
-[Two Blocks and a Pulley Using Energy]({{< baseurl >}}/pages/week-10-rotational-motion/31.7-worked-example-two-blocks-and-a-pulley-using-energy)
+{{% resource_link 31176412-23be-cbd3-e6d5-c694174cdbcf "Two Blocks and a Pulley Using Energy" %}}
 
-[Blocks and Massive Pulley]({{< baseurl >}}/pages/week-10-rotational-motion/ps.10.1-blocks-and-massive-pulley)
+{{% resource_link 1ea17804-f861-7e6c-0bce-e9e83c087d94 "Blocks and Massive Pulley" %}}
 
 
 {{< tdclose >}}
@@ -546,17 +550,17 @@ Rotational Dynamics
 {{< tdopen >}}
 Angular Momentum of a Point Particle
 {{< tdclose >}}
-{{< tdopen >}}
-[Problem Set 11 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset11)
+{{< tdopen rowspan="3" >}}
+{{% resource_link 8a7ebab9-32f2-59be-07c4-462d5fbc1a92 "Problem Set 11 (PDF)" %}}
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
-[Angular Momentum About Different Points]({{< baseurl >}}/pages/week-11-angular-momentum/32.3-worked-example-angular-momentum-about-different-points)
+{{% resource_link 884110c0-b77a-e3a5-d780-c9d382fb5a33 "Angular Momentum About Different Points" %}}
 
-[Angular Momentum of 2 Rotating Point Particles]({{< baseurl >}}/pages/week-11-angular-momentum/33.1-worked-example-angular-momentum-of-2-rotating-point-particles)
+{{% resource_link 4dda04ab-f172-a544-1f39-111d35ef45b3 "Angular Momentum of 2 Rotating Point Particles" %}}
 
-[Particle Hits Pivoted Ring]({{< baseurl >}}/pages/week-11-angular-momentum/34.5-worked-example-particle-hits-pivoted-ring)
+{{% resource_link fd5621ac-f9af-8265-912d-22db4bdfad0a "Particle Hits Pivoted Ring" %}}
 
 
 {{< tdclose >}}
@@ -593,17 +597,17 @@ Torque and Angular Impulse
 {{< tdopen >}}
 Rolling Kinematics
 {{< tdclose >}}
-{{< tdopen >}}
-[Problem Set 12 (PDF)]({{< baseurl >}}/resources/mit8_01f16_pset12)
+{{< tdopen rowspan="4" >}}
+{{% resource_link 4f3af212-f682-f52a-6151-aef53415d5b2 "Problem Set 12 (PDF)" %}}
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
-[Wheel Rolling Without Slipping Down Inclined Plane - Torque Method]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/36.2-worked-example-wheel-rolling-without-slipping-down-inclined-plane-torque-method)
+{{% resource_link 7ec4c751-9983-1ed5-fc36-1da93d0a2ec1 "Wheel Rolling Without Slipping Down Inclined Plane - Torque Method" %}}
 
-[Yoyo Pulled Along the Ground]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/36.4-worked-example-yoyo-pulled-along-the-ground)
+{{% resource_link b7bd05af-caca-4c28-36f8-ab817a0c4103 "Yoyo Pulled Along the Ground" %}}
 
-[Wheel Rolling Without Slipping Down Inclined Plane]({{< baseurl >}}/pages/week-12-rotations-and-translation-rolling/37.2-worked-example-wheel-rolling-without-slipping-down-inclined-plane)
+{{% resource_link 6dde6688-f1fa-20f2-de5a-06f1a9aa9665 "Wheel Rolling Without Slipping Down Inclined Plane" %}}
 
 
 {{< tdclose >}}
@@ -639,4 +643,4 @@ Gyroscopes
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/readings) | [Next]({{< baseurl >}}/pages/review-vectors) »
+« {{% resource_link 8897a3b7-567f-b552-81b3-2f8a1de7b53b "Previous" %}} | {{% resource_link f8da8d9b-f6a4-78e6-808b-aa7e6aa62306 "Next" %}} »
