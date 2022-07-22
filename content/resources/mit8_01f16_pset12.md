@@ -6,6 +6,7 @@ file: /courses/8-01sc-classical-mechanics-fall-2016/4f3af212f682f52a6151aef53415
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 8.01 Classical Mechanics Pset 12
 uid: 4f3af212-f682-f52a-6151-aef53415d5b2
 ---
 This file contains information regarding classical mechanics problem set 12.
-

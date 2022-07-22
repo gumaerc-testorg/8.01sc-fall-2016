@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-01sc-classical-mechanics-fall-2016/e229d3465ff15609a25386a64845f9ce_89SjJv30kGU.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

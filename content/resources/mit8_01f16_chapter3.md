@@ -5,6 +5,7 @@ file: /courses/8-01sc-classical-mechanics-fall-2016/95bd83661331043539a2db024cf8
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 8.01 Classical Mechanics Chapter 3
 uid: 95bd8366-1331-0435-39a2-db024cf843d8
 ---
 This resource contains information regarding classical mechanics.
-
