@@ -27,7 +27,7 @@
     "website": "8-01sc-classical-mechanics-fall-2016"
   },
   "course_title": "Classical Mechanics",
-  "course_description": "This first course in the physics curriculum introduces classical mechanics. Historically, a set of core concepts\u2014space, time, mass, force, momentum, torque, and angular momentum\u2014were introduced in classical mechanics in order to solve the most famous physics problem, the motion of the planets.\n\nThe principles of mechanics successfully described many other phenomena encountered in the world. Conservation laws involving energy, momentum and angular momentum provided a second parallel approach to solving many of the same problems. In this course, we will investigate both approaches: Force and conservation laws.\n\n[![Click to get started.](/images/button_start.png)](pages/syllabus)\n\nOur goal is to develop a conceptual understanding of the core concepts, a familiarity with the experimental verification of our theoretical laws, and an ability to apply the theoretical framework to describe and predict the motions of bodies.\n",
+  "course_description": "This first course in the physics curriculum introduces classical mechanics. Historically, a set of core concepts\u2014space, time, mass, force, momentum, torque, and angular momentum\u2014were introduced in classical mechanics in order to solve the most famous physics problem, the motion of the planets.\n\nThe principles of mechanics successfully described many other phenomena encountered in the world. Conservation laws involving energy, momentum and angular momentum provided a second parallel approach to solving many of the same problems. In this course, we will investigate both approaches: Force and conservation laws.\n\nOur goal is to develop a conceptual understanding of the core concepts, a familiarity with the experimental verification of our theoretical laws, and an ability to apply the theoretical framework to describe and predict the motions of bodies.",
   "department_numbers": [
     "8"
   ],
@@ -42,6 +42,7 @@
     "Problem Sets",
     "Online Textbook"
   ],
-  "site_uid": "202829c6-d45f-4935-8ca7-abec8a9a6217",
+  "site_uid": "ccf4f09b-51f8-4ab1-8919-a58a9c273511",
+  "site_short_id": "8.01sc-fall-2016",
   "title": "Course Metadata"
 }
