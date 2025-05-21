@@ -2,7 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/8-01sc-classical-mechanics-fall-2016/mit8_01scs22_constants.pdf
+file: courses/8-01sc-classical-mechanics-fall-2016/mit8_01scs22_constants.pdf
+file_size: 368499
 file_type: application/pdf
 image_metadata:
   caption: ''

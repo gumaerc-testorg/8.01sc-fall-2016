@@ -1,15 +1,15 @@
 ---
 body: ''
 content_type: resource
-draft: false
-file: /courses/8-01sc-classical-mechanics-fall-2016/mit8_01scs22_chapter25new.pdf
+draft: true
+file: courses/8-01sc-classical-mechanics-fall-2016/mit8_01scs22_chapter25new.pdf
+file_size: 4513107
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Online Textbook
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: '8.01SC S22 Chapter 25: Celestial Mechanics'
