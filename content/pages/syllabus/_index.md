@@ -89,7 +89,7 @@ Class Participation
 
 ## Problem Sets
 
-Almost every week a problem set will be due. This homework will typically consist of fove or six problems. To receive full credit for the written component of your homework, you must prepare and submit lucid and clearly reasoned written solutions. A selection of these problems will be graded and returned.
+Almost every week a problem set will be due. This homework will typically consist of five or six problems. To receive full credit for the written component of your homework, you must prepare and submit lucid and clearly reasoned written solutions. A selection of these problems will be graded and returned.
 
 ### Tip for success
 
@@ -101,4 +101,4 @@ Scientists and engineers work in groups as well as alone. Social interactions ar
 
 You will form groups of three for collaborative work. If you are not satisfied with the way your group is working, first try to discuss it with your group members. If you cannot arrive at a satisfactory solution, then discuss the problems with your instructor.
 
-« \[Previous\]({{< baseurl >}}/) | {{% resource_link "63b200b4-6b93-d532-b387-9a3d37067265" "Next" %}} »
+{{% resource_link "63b200b4-6b93-d532-b387-9a3d37067265" "Next" %}} »

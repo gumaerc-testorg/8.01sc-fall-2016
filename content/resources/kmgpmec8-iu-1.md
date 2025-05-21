@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-01sc-classical-mechanics-fall-2016/6817d77a55c33bb16022806015443863_KmGPMec8-iU.pdf
+file_size: 13452
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

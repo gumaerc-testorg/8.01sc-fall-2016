@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding classical mechanics problem
   set 3.
 file: /courses/8-01sc-classical-mechanics-fall-2016/4b332aab1695e67fdcbc0f4c3924134e_MIT8_01F16_pset3.pdf
+file_size: 413332
 file_type: application/pdf
 learning_resource_types:
 - Assignments

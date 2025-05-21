@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-01sc-classical-mechanics-fall-2016/f1cc92e09027b13bdda967f59006f03f_rayyan_saif_about.jpg
+file_size: 9837
 file_type: image/jpeg
 image_metadata:
   caption: ''

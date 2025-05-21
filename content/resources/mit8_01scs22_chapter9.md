@@ -2,7 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/8-01sc-classical-mechanics-fall-2016/mit8_01scs22_chapter9.pdf
+file: courses/8-01sc-classical-mechanics-fall-2016/mit8_01scs22_chapter9.pdf
+file_size: 2409772
 file_type: application/pdf
 image_metadata:
   caption: ''

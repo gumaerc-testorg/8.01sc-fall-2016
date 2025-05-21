@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-01sc-classical-mechanics-fall-2016/838633c70a5b59cce23f0909eaeb96d7_jsinput_freebodydraw_massive_rope_between_trees_setup.svg
+file_size: 40545
 file_type: image/svg+xml
 image_metadata:
   caption: ''

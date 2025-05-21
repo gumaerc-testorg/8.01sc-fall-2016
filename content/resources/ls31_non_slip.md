@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-01sc-classical-mechanics-fall-2016/415f1853e6e396deca828c013fe19829_ls31_non_slip.svg
+file_size: 4801
 file_type: image/svg+xml
 image_metadata:
   caption: ''
