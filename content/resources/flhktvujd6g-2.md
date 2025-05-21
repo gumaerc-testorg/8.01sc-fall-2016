@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-01sc-classical-mechanics-fall-2016/6c4bc79ea2a6580cbb5f7a1abe8c47fc_FlHKTvUjD6g.vtt
+file_size: 12769
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

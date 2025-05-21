@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-01sc-classical-mechanics-fall-2016/d01856a963475c15124a3ccf5d399a4a_michelletomasik_110x110.jpg
+file_size: 5686
 file_type: image/jpeg
 image_metadata:
   caption: ''
