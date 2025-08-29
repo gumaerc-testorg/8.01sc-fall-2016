@@ -40,9 +40,10 @@
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets",
-    "Online Textbook"
+    "Open Textbooks"
   ],
   "site_uid": "ccf4f09b-51f8-4ab1-8919-a58a9c273511",
   "site_short_id": "8.01sc-fall-2016",
+  "site_url_path": "courses/8-01sc-classical-mechanics-fall-2016",
   "title": "Course Metadata"
 }

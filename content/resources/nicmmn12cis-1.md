@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-01sc-classical-mechanics-fall-2016/e815edd9d9b6d8e83f66a589afdfc983_NiCMMn12CIs.pdf
+file: /ol-ocw-studio-app/courses/8-01sc-classical-mechanics-fall-2016/e815edd9d9b6d8e83f66a589afdfc983_NiCMMn12CIs.pdf
 file_size: 16842
 file_type: application/pdf
 learning_resource_types: []

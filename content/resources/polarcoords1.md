@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-01sc-classical-mechanics-fall-2016/41c189b5309d6b11cfa74969017977e6_polarCoords1.svg
+file: /ol-ocw-studio-app/courses/8-01sc-classical-mechanics-fall-2016/41c189b5309d6b11cfa74969017977e6_polarCoords1.svg
 file_size: 3159
 file_type: image/svg+xml
 image_metadata:
