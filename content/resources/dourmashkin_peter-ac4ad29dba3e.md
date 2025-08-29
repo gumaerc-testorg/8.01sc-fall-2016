@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-01sc-classical-mechanics-fall-2016/0cff583059d1526ee814c865a9d35695_dourmashkin_peter.ac4ad29dba3e.jpg
+file: /ol-ocw-studio-app/courses/8-01sc-classical-mechanics-fall-2016/0cff583059d1526ee814c865a9d35695_dourmashkin_peter.ac4ad29dba3e.jpg
 file_size: 10492
 file_type: image/jpeg
 image_metadata:

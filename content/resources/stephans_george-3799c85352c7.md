@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-01sc-classical-mechanics-fall-2016/ae1b1b3ad06a6ac3b2342627de6d577f_stephans_george.3799c85352c7.jpg
+file: /ol-ocw-studio-app/courses/8-01sc-classical-mechanics-fall-2016/ae1b1b3ad06a6ac3b2342627de6d577f_stephans_george.3799c85352c7.jpg
 file_size: 11729
 file_type: image/jpeg
 image_metadata:

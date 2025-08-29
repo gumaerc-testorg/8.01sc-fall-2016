@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding classical mechanics problem
   set 5.
-file: /courses/8-01sc-classical-mechanics-fall-2016/ebe813c4c1e0a146933380112612a58f_MIT8_01F16_pset5.pdf
+file: /ol-ocw-studio-app/courses/8-01sc-classical-mechanics-fall-2016/ebe813c4c1e0a146933380112612a58f_MIT8_01F16_pset5.pdf
 file_size: 264411
 file_type: application/pdf
 learning_resource_types:
