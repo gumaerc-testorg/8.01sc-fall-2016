@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding classical mechanics.
 draft: true
-file: /courses/8-01sc-classical-mechanics-fall-2016/567573a96ae696edef9a3301d6b00ab3_MIT8_01F16_chapter13.8.pdf
+file: /ol-ocw-studio-app/courses/8-01sc-classical-mechanics-fall-2016/567573a96ae696edef9a3301d6b00ab3_MIT8_01F16_chapter13.8.pdf
 file_size: 1206186
 file_type: application/pdf
 image_metadata:

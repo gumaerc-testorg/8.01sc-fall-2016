@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: true
-file: courses/8-01sc-classical-mechanics-fall-2016/mit8_01scs22_chapter25new.pdf
+file: /ol-ocw-studio-app/courses/8-01sc-classical-mechanics-fall-2016/mit8_01scs22_chapter25new.pdf
 file_size: 4513107
 file_type: application/pdf
 image_metadata:
