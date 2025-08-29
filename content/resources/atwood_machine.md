@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-01sc-classical-mechanics-fall-2016/0310ea7232716c47b2f2d1323a9d4a4e_atwood_machine.svg
+file: /ol-ocw-studio-app/courses/8-01sc-classical-mechanics-fall-2016/0310ea7232716c47b2f2d1323a9d4a4e_atwood_machine.svg
 file_size: 3776
 file_type: image/svg+xml
 image_metadata:

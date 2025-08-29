@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-01sc-classical-mechanics-fall-2016/5c0511873bddef77db501d8c84e65623_ropes_and_pulley_intro.svg
+file: /ol-ocw-studio-app/courses/8-01sc-classical-mechanics-fall-2016/5c0511873bddef77db501d8c84e65623_ropes_and_pulley_intro.svg
 file_size: 3346
 file_type: image/svg+xml
 image_metadata:

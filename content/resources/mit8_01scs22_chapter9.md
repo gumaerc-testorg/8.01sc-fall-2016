@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/8-01sc-classical-mechanics-fall-2016/mit8_01scs22_chapter9.pdf
+file: /ol-ocw-studio-app/courses/8-01sc-classical-mechanics-fall-2016/mit8_01scs22_chapter9.pdf
 file_size: 2409772
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: MIT8_01scS22_chapter9.pdf
