@@ -29,7 +29,7 @@ One way to measure an angle is in radians. A full circle has \\(2\\pi\\) radians
 
 **External References**
 
-[Wolfram: Radian](http://mathworld.wolfram.com/Radian.html)
+{{% resource_link "5b465cc4-d8b1-4437-b2c7-2f6ff225040a" "Wolfram: Radian" %}}
 
 {{< resource 101107a8-787b-ebc7-8634-f0acc04e18c8 >}}
 
