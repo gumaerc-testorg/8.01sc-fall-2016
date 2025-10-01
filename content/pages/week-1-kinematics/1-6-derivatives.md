@@ -47,8 +47,8 @@ uid: e2ff4dd6-34aa-9891-22c6-cf27dbab579a
 
 **External References**
 
-1.  [World Web Math](http://web.mit.edu/wwmath/calculus/differentiation/polynomials.html)
+1.  {{% resource_link "272ecd2a-1e5a-46c6-b3df-52d24224facb" "World Web Math" %}}
 2.  [OCW: Single Variable Calculus - Video Lecture 3](/courses/18-01-single-variable-calculus-fall-2006/resources/lecture-3-derivatives)
-3.  [Wolfram Alpha](http://www.wolframalpha.com/)
+3.  {{% resource_link "69de33bf-6989-402d-9e22-3fdd7c19925f" "Wolfram Alpha" %}}
 
 « {{% resource_link 595db4b7-b909-9dcb-d43d-98e6d638ebc0 "Previous" %}} | {{% resource_link 4b4d3f00-ac10-19a8-a4b6-6a56291c1228 "Next" %}} »
