@@ -12,7 +12,7 @@ uid: 625a15e4-5ff0-83db-bb2e-81a6583103c5
 ---
 « {{% resource_link "24520484-0767-1631-2e08-ec037e0da137" "Previous" %}} | {{% resource_link "cafeab96-1cc4-0b56-1181-e1020195ed8c" "Next" %}} »
 
-[28.1 Rigid Bodies (YouTube)](https://www.youtube.com/watch?v=u_LAfG5uIpY)
+{{% resource_link "01211125-7430-40c1-86bf-04543f323845" "28.1 Rigid Bodies (YouTube)" %}}
 
 {{< resource uuid="3a49c20b-fa11-7a8e-b3eb-3810089b1c03" >}}
 

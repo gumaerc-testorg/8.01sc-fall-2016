@@ -45,6 +45,6 @@ uid: 52166d73-6e4e-5e12-6d64-5ad6a0c7a9f2
 
 **External References**
 
-[Wolfram Alpha](http://www.wolframalpha.com/)
+{{% resource_link "69de33bf-6989-402d-9e22-3fdd7c19925f" "Wolfram Alpha" %}}
 
 « {{% resource_link 80bbab7a-5245-7ea7-acb5-deb15fb9c9cb "Previous" %}} | {{% resource_link 355b5de2-6116-b582-7ce8-833ba051ad9f "Next" %}} »
